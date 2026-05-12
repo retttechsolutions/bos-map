@@ -20,7 +20,9 @@ from bs4 import BeautifulSoup
 
 log = logging.getLogger(__name__)
 
-_WIKI_URL = "https://de.wikipedia.org/wiki/Liste_der_Leitstellen_der_Beh%C3%B6rden_und_Organisationen_mit_Sicherheitsaufgaben_in_Deutschland"
+# Primary URL; fallback tried if this 404s
+_WIKI_URL = "https://de.wikipedia.org/wiki/Integrierte_Leitstelle"
+_WIKI_URL_FALLBACK = "https://de.wikipedia.org/wiki/Liste_der_Leitstellen_der_Beh%C3%B6rden_und_Organisationen_mit_Sicherheitsaufgaben_in_Deutschland"
 
 # Map Wikipedia section headings to Bundesland codes
 _BL_MAPPING: dict[str, str] = {
@@ -42,7 +44,7 @@ _BL_MAPPING: dict[str, str] = {
     "Thüringen": "TH",
 }
 
-_MAX_RETRIES = 4
+_MAX_RETRIES = 2
 
 
 def _fetch_html(url: str) -> str:
@@ -74,7 +76,23 @@ def harvest(output_dir: Path, force: bool = False) -> Path:
         return out_path
 
     log.info("Fetching Wikipedia ILS list…")
-    html = _fetch_html(_WIKI_URL)
+    html: str | None = None
+    for url in (_WIKI_URL, _WIKI_URL_FALLBACK):
+        try:
+            html = _fetch_html(url)
+            log.info("Wikipedia: fetched from %s", url)
+            break
+        except Exception as exc:
+            log.warning("Wikipedia URL %s failed: %s – trying next", url, exc)
+
+    if html is None:
+        log.warning(
+            "All Wikipedia URLs failed. Writing empty placeholder. "
+            "Pipeline will continue with official sources only."
+        )
+        out_path.write_text(json.dumps([], ensure_ascii=False), encoding="utf-8")
+        return out_path
+
     entries = _parse(html)
     out_path.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
     log.info("Wikipedia: saved %d entries → %s", len(entries), out_path)
