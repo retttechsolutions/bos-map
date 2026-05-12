@@ -1,0 +1,104 @@
+name: Data Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force re-download of all sources'
+        type: boolean
+        default: false
+  schedule:
+    # Run every Monday at 03:00 UTC to catch upstream changes
+    - cron: '0 3 * * 1'
+
+jobs:
+  pipeline:
+    name: Harvest → Normalize → Validate → Build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push updated data files
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install pipeline dependencies
+        working-directory: pipeline
+        run: pip install -e ".[dev]"
+
+      - name: Harvest Bayern WFS
+        working-directory: pipeline
+        run: |
+          python -m harvest.by_wfs \
+            --output ../data/raw/by_wfs/ \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Harvest NRW OGC API
+        working-directory: pipeline
+        run: |
+          python -m harvest.nrw_ogc \
+            --output ../data/raw/nrw_ogc/ \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Harvest Sachsen WMS/WFS
+        working-directory: pipeline
+        run: |
+          python -m harvest.sn_wms \
+            --output ../data/raw/sn_wms/ \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Harvest Wikipedia bootstrap
+        working-directory: pipeline
+        run: |
+          python -m harvest.wikipedia \
+            --output ../data/raw/wikipedia/ \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Download BKG VG250
+        working-directory: pipeline
+        run: |
+          python -m harvest.bkg_vg250 \
+            --output ../data/raw/bkg_vg250/ \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Normalize
+        working-directory: pipeline
+        run: |
+          python -m normalize.run \
+            --raw ../data/raw/ \
+            --output ../data/processed/normalized/
+
+      - name: Validate
+        working-directory: pipeline
+        run: |
+          python -m validate.run \
+            --input ../data/processed/normalized/ \
+            --schema ../data/schema/feature.schema.json \
+            --vg250 ../data/raw/bkg_vg250/extracted/
+
+      - name: Build output artefacts
+        working-directory: pipeline
+        run: |
+          python -m build.run \
+            --input ../data/processed/normalized/ \
+            --processed ../data/processed/ \
+            --docs ../docs/
+
+      - name: Run pipeline tests
+        working-directory: pipeline
+        run: pytest tests/ -v
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/ docs/data/ docs/api/
+          git diff --staged --quiet || git commit -m "chore(data): pipeline update $(date -u +%Y-%m-%d)"
+          git push

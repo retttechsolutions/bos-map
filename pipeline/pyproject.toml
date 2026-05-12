@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "bos-map-pipeline"
+version = "0.1.0"
+description = "ETL pipeline for BOS-Map: harvesting, normalizing and building ILS geodata"
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=0.14",
+    "shapely>=2.0",
+    "pyproj>=3.6",
+    "fiona>=1.9",
+    "owslib>=0.31",
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "jsonschema>=4.22",
+    "flatbush>=3.0",
+    "click>=8.1",
+    "rich>=13.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "responses>=0.25",
+    "ruff>=0.4",
+    "mypy>=1.10",
+]
+
+[project.scripts]
+bos-harvest = "harvest.__main__:cli"
+bos-build = "build.__main__:cli"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
