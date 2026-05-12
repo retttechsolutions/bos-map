@@ -72,7 +72,7 @@ export class MapController {
       this.map.once('load', () => resolve())
     })
 
-    this.map.addSource(SOURCE_ILS_POINTS, { type: 'geojson', data })
+    this.map.addSource(SOURCE_ILS_POINTS, { type: 'geojson', data: data as GeoJSON.FeatureCollection })
     this.map.addLayer(LAYER_POINTS)
     this.map.addLayer(LAYER_LABELS)
   }
@@ -90,7 +90,7 @@ export class MapController {
 
     this.map.addSource(SOURCE_ILS_POLYGONS, {
       type: 'geojson',
-      data,
+      data: data as GeoJSON.FeatureCollection,
       generateId: true,  // needed for feature-state
     })
     this.map.addLayer(LAYER_FILL, beforeLayer)

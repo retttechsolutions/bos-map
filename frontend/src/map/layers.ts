@@ -1,10 +1,10 @@
 /** MapLibre GL layer definitions for BOS-Map. */
 
-import type { LayerSpecification } from 'maplibre-gl'
-import { BL_COLORS, type Bundesland } from '../types/ils'
+import type { LayerSpecification, ExpressionSpecification } from 'maplibre-gl'
+import { BL_COLORS } from '../types/ils'
 
 // Build a MapLibre match expression for Bundesland → color
-function blColorExpression(): maplibregl.ExpressionSpecification {
+function blColorExpression(): ExpressionSpecification {
   const expr: unknown[] = ['match', ['get', 'bundesland']]
   for (const [bl, color] of Object.entries(BL_COLORS)) {
     expr.push(bl, color)
