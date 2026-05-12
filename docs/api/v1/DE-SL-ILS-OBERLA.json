@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-OBERLA",
+    "leitstellenname": "Leitstelle Oberland",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "Weilheim in OberbayernBRK",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Weilheim-Schongau(WM)Landkreis Bad Tölz-Wolfratshausen(TÖL)Landkreis Garmisch-Partenkirchen(GAP) | Inbetriebnahme 30. Juni 2010"
+  },
+  "geometry": null
+}

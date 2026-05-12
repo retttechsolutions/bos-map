@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-KARLSR",
+    "leitstellenname": "Leitstelle Karlsruhe",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "KarlsruheDRK KV Karlsruhe/Berufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "KarlsruheLandkreis Karlsruhe | DieILSwurde am  21. März 2017 in Betrieb genommen und nimmt unter anderem die Nummern 112, 19222 und 116117 entgegen."
+  },
+  "geometry": null
+}

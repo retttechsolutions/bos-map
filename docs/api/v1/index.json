@@ -4066,6 +4066,987 @@
     ]
   },
   {
+    "leitstellen_id": "DE-SL-ILS-AACHEN",
+    "leitstellenname": "Leitstelle Aachen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AachenBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-AKKONH",
+    "leitstellenname": "Akkon Hamburgehrenamtliche Leitstelle",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HamburgJohanniter Hamburg",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ALLGAE",
+    "leitstellenname": "Leitstelle Allgäu",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Kempten (Allgäu)Stadt Kempten (Allgäu) (Feuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ALTMAR",
+    "leitstellenname": "Leitstelle Altmark",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StendalKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-AMBERG",
+    "leitstellenname": "Leitstelle Amberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AmbergZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ANHALT",
+    "leitstellenname": "Leitstelle Anhalt-Bitterfeld",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bitterfeld-WolfenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ANSBAC",
+    "leitstellenname": "Leitstelle Ansbach",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AnsbachStadt Ansbach (Feuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-AUGSBU",
+    "leitstellenname": "Leitstelle Augsburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AugsburgStadt Augsburg (Berufsfeuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BAMBER",
+    "leitstellenname": "Leitstelle Bamberg-Forchheim",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BambergZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BAYERI",
+    "leitstellenname": "Leitstelle Bayerischer Untermain",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AschaffenburgZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BAYREU",
+    "leitstellenname": "Leitstelle Bayreuth/Kulmbach",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BayreuthBRK Kreisverband Bayreuth",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BERGA",
+    "leitstellenname": "Leitstelle Berga",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bergisch GladbachKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BERGST",
+    "leitstellenname": "Leitstelle Bergstraße",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Heppenheim (Bergstraße)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BEROLI",
+    "leitstellenname": "Berolina",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BerlinPolizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BIBERA",
+    "leitstellenname": "Leitstelle Biberach",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Biberach an der RißDRK/Landkreis Biberach",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BIELEF",
+    "leitstellenname": "Leitstelle Bielefeld",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BielefeldBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BODENS",
+    "leitstellenname": "Leitstelle Bodensee-Oberschwaben",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "FriedrichshafenWeingarten (Württemberg)DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BOEBLI",
+    "leitstellenname": "Leitstelle Böblingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BöblingenLandkreis Böblingen / DRK Kreisverband / Feuerwehr Stadt Böblingen",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BOERDE",
+    "leitstellenname": "Leitstelle Börde",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HaldenslebenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BONN",
+    "leitstellenname": "Leitstelle Bonn",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BonnBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BORKEN",
+    "leitstellenname": "Leitstelle Borken",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BorkenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BRANDE",
+    "leitstellenname": "Leitstelle Brandenburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Brandenburg an der HavelBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BRAUNS",
+    "leitstellenname": "Leitstelle Braunschweig",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BraunschweigBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BREMER",
+    "leitstellenname": "Leitstelle Bremerhaven",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BremerhavenBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-BURGEN",
+    "leitstellenname": "Leitstelle Burgenlandkreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Naumburg (Saale)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-CALW",
+    "leitstellenname": "Leitstelle Calw",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "CalwDRK/Feuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-CELLE",
+    "leitstellenname": "Leitstelle Celle",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "CelleKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-CHEMNI",
+    "leitstellenname": "Leitstelle Chemnitz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ChemnitzBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-COBURG",
+    "leitstellenname": "Leitstelle Coburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Ebersdorf bei CoburgBRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DARMST",
+    "leitstellenname": "Leitstelle Darmstadt-Dieburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DieburgKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DESSAU",
+    "leitstellenname": "Leitstelle Dessau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Dessau-RoßlauBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DIEPHO",
+    "leitstellenname": "Leitstelle Diepholz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DiepholzKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DIETZE",
+    "leitstellenname": "Leitstelle Dietzenbach",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DietzenbachEigenbetrieb Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DONAUI",
+    "leitstellenname": "Leitstelle Donau-Iller",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KrumbachBRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DORTMU",
+    "leitstellenname": "Leitstelle Dortmund",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DortmundBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DRESDE",
+    "leitstellenname": "Leitstelle Dresden",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DresdenBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-DUESSE",
+    "leitstellenname": "Leitstelle Düsseldorf",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DüsseldorfBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EICHSF",
+    "leitstellenname": "Leitstelle Eichsfeld",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HeiligenstadtKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EINSTE",
+    "leitstellenname": "Einstein",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Potsdam",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EMDEN",
+    "leitstellenname": "Leitstelle Emden",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EmdenStadt",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EMMEND",
+    "leitstellenname": "Leitstelle Emmendingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EmmendingenDRK/Feuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EMSVEC",
+    "leitstellenname": "Leitstelle Ems-Vechte",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MeppenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ENNEPE",
+    "leitstellenname": "Leitstelle Ennepe",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SchwelmKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ERDING",
+    "leitstellenname": "Leitstelle Erding",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ErdingLandkreis Erding",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ERFURT",
+    "leitstellenname": "Leitstelle Erfurt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Erfurt-MarbachBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ESSEN",
+    "leitstellenname": "Leitstelle Essen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EssenBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ESSLIN",
+    "leitstellenname": "Leitstelle Esslingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Esslingen am NeckarFeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-EUSKIR",
+    "leitstellenname": "Leitstelle Euskirchen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EuskirchenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-FLORIA",
+    "leitstellenname": "Florian München Land",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MünchenLandratsamt München",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-FREIBU",
+    "leitstellenname": "Leitstelle Freiburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Freiburg im BreisgauBerufsfeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-FREUDE",
+    "leitstellenname": "Leitstelle Freudenstadt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "FreudenstadtDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-FRIESL",
+    "leitstellenname": "Leitstelle Friesland-Wilhelmshaven",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WilhelmshavenZweckverband",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-FUERST",
+    "leitstellenname": "Leitstelle Fürstenfeldbruck",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "FürstenfeldbruckZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GERA",
+    "leitstellenname": "Leitstelle Gera",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GeraBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GERAU",
+    "leitstellenname": "Leitstelle Gerau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Groß-GerauEigenbetrieb Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GIFHOR",
+    "leitstellenname": "Leitstelle Gifhorn",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GifhornKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GOEPPI",
+    "leitstellenname": "Leitstelle Göppingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GöppingenFeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GOSLAR",
+    "leitstellenname": "Leitstelle Goslar",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GoslarKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GOTHA",
+    "leitstellenname": "Leitstelle Gotha",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GothaKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-GUETER",
+    "leitstellenname": "Leitstelle Gütersloh",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GüterslohKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HALLE",
+    "leitstellenname": "Leitstelle Halle",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Halle (Saale)Berufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HAMELN",
+    "leitstellenname": "Leitstelle Hameln",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HamelnKreis/Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HANNOV",
+    "leitstellenname": "Leitstelle Hannover",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HannoverBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HARBUR",
+    "leitstellenname": "Leitstelle Harburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Winsen (Luhe)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HARZ",
+    "leitstellenname": "Leitstelle Harz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HalberstadtEigenbetrieb Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HEIDEK",
+    "leitstellenname": "Leitstelle Heidekreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SoltauKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HEILBR",
+    "leitstellenname": "Leitstelle Heilbronn",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HeilbronnBerufsfeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HELMST",
+    "leitstellenname": "Leitstelle Helmstedt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HelmstedtKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HERFOR",
+    "leitstellenname": "Leitstelle Herford",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Hiddenhausen-EilshausenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HERSFE",
+    "leitstellenname": "Leitstelle Hersfeld-Rotenburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad HersfeldKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HOCHFR",
+    "leitstellenname": "Leitstelle Hochfranken",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Hof (Saale)BRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HOCHTA",
+    "leitstellenname": "Leitstelle Hochtaunus",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad Homburg vor der HöheKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-HOHENL",
+    "leitstellenname": "Leitstelle Hohenlohe",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Künzelsau-GaisbachDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-INGOLS",
+    "leitstellenname": "Leitstelle Ingolstadt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "IngolstadtZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-JENA",
+    "leitstellenname": "Leitstelle Jena",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "JenaBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-JERICH",
+    "leitstellenname": "Leitstelle Jerichower Land",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Burg (bei Magdeburg)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KAISER",
+    "leitstellenname": "Leitstelle Kaiserslautern",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KaiserslauternBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KARLSR",
+    "leitstellenname": "Leitstelle Karlsruhe",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KarlsruheDRK KV Karlsruhe/Berufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KLEVE",
+    "leitstellenname": "Leitstelle Kleve",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KleveKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KOBLEN",
+    "leitstellenname": "Leitstelle Koblenz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KoblenzBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KOMMUN",
+    "leitstellenname": "Kommunale Regionalleitstelle Göttingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GöttingenBerufsfeuerwehr Göttingen",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KONSTA",
+    "leitstellenname": "Leitstelle Konstanz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Radolfzell am BodenseeDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KREISD",
+    "leitstellenname": "Leitstelle Kreis Düren",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Kreuzau-StockheimKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KREISH",
+    "leitstellenname": "Leitstelle Kreis Heinsberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ErkelenzKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KREISM",
+    "leitstellenname": "Leitstelle Kreis Mettmann",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MettmannKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KREISS",
+    "leitstellenname": "Leitstelle Kreis Soest",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SoestKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-KREISW",
+    "leitstellenname": "Leitstelle Kreis Warendorf",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WarendorfKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LAHNDI",
+    "leitstellenname": "Leitstelle Lahn-Dill",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WetzlarKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LANDAU",
+    "leitstellenname": "Leitstelle Landau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Landau in der PfalzDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LANDES",
+    "leitstellenname": "Landeseinsatzzentrale Erfurt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ErfurtThüringer Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LANDSH",
+    "leitstellenname": "Leitstelle Landshut",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LandshutZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LAUSIT",
+    "leitstellenname": "Leitstelle Lausitz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "CottbusBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LEIPZI",
+    "leitstellenname": "Leitstelle Leipzig",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LeipzigBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LEITFU",
+    "leitstellenname": "Leitfunkstelle Darmstadt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "DarmstadtBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LIMBUR",
+    "leitstellenname": "Leitstelle Limburg-Weilburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LimburgKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LIPPE",
+    "leitstellenname": "Leitstelle Lippe",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LemgoKreis Lippe",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LOERRA",
+    "leitstellenname": "Leitstelle Lörrach",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LörrachDRK/Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LUDWIG",
+    "leitstellenname": "Leitstelle Ludwigsburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LudwigsburgILS Ludwigsburg gGmbH – Mitarbeiter der Fw und des RD sind dort abgeordnet bzw. ausgeliehen",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LUEBEC",
+    "leitstellenname": "Leitstelle Lübeck",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LübeckBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-LUENEB",
+    "leitstellenname": "Leitstelle Lüneburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LüneburgKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MAGDEB",
+    "leitstellenname": "Leitstelle Magdeburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MagdeburgBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MAINKI",
+    "leitstellenname": "Leitstelle Main-Kinzig",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "GelnhausenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MAINTA",
+    "leitstellenname": "Leitstelle Main-Tauber",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad MergentheimDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MAINZ",
+    "leitstellenname": "Leitstelle Mainz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Mainz-GonsenheimDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MANNHE",
+    "leitstellenname": "Leitstelle Mannheim",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MannheimStadt Mannheim& DRK KV Mannheim[3]",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MANSFE",
+    "leitstellenname": "Leitstelle Mansfeld-Südharz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SangerhausenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MARBUR",
+    "leitstellenname": "Leitstelle Marburg-Biedenkopf",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Marburg-CappelKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MARK",
+    "leitstellenname": "Leitstelle Mark",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AltenaKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MECKLE",
+    "leitstellenname": "Leitstelle Mecklenburgische-Seenplatte",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NeubrandenburgBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
     "leitstellen_id": "DE-SL-ILS-MERZIG",
     "leitstellenname": "ILS Merzig-Wadern",
     "bundesland": "SL",
@@ -4078,6 +5059,96 @@
       6.963,
       49.6134
     ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MICHEL",
+    "leitstellenname": "Michel",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HamburgBehörde für Inneres und Sport– Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MINDEN",
+    "leitstellenname": "Leitstelle Minden",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HilleKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MITTE",
+    "leitstellenname": "Leitstelle Mitte",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KielBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MITTEL",
+    "leitstellenname": "Leitstelle Mittelbaden",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "RastattDRK KV Bühl-Achern,Landkreis RastattundStadt Baden-Baden",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MITTLE",
+    "leitstellenname": "Leitstelle Mittleres Mecklenburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad DoberanKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MONTAB",
+    "leitstellenname": "Leitstelle Montabaur",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MontabaurDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MUENCH",
+    "leitstellenname": "Leitstelle München",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MünchenStadt München (Berufsfeuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MUENST",
+    "leitstellenname": "Leitstelle Münster",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MünsterBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NECKAR",
+    "leitstellenname": "Leitstelle Neckar-Odenwald",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MosbachDRK/Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NEUMUE",
+    "leitstellenname": "Leitstelle Neumünster",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NeumünsterBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
   },
   {
     "leitstellen_id": "DE-SL-ILS-NEUNKI",
@@ -4094,6 +5165,213 @@
     ]
   },
   {
+    "leitstellen_id": "DE-SL-ILS-NORDHA",
+    "leitstellenname": "Leitstelle Nordhausen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NordhausenKreise",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NORDOB",
+    "leitstellenname": "Leitstelle Nordoberpfalz",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Weiden in der OberpfalzZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NORDOS",
+    "leitstellenname": "Leitstelle NordOst",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EberswaldeLandkreis Barnim",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NORDPO",
+    "leitstellenname": "Leitstelle NordPolizei: Nordwind",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HarrisleeZweckverband/Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NORDWE",
+    "leitstellenname": "Leitstelle Nordwest",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "PotsdamBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NORTHE",
+    "leitstellenname": "Leitstelle Northeim",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NortheimKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NUERNB",
+    "leitstellenname": "Leitstelle Nürnberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NürnbergStadt Nürnberg (Berufsfeuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OBERBE",
+    "leitstellenname": "Leitstelle Oberberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Marienheide-KotthausenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OBERLA",
+    "leitstellenname": "Leitstelle Oberland",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Weilheim in OberbayernBRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ODENWA",
+    "leitstellenname": "Leitstelle Odenwald",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ErbachKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ODERLA",
+    "leitstellenname": "Leitstelle Oderland",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Frankfurt (Oder)Berufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OLDENB",
+    "leitstellenname": "Leitstelle Oldenburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "OldenburgAÖR Großleitstelle Oldenburger Land/Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OLPE",
+    "leitstellenname": "Leitstelle Olpe",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "OlpeKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ORTENA",
+    "leitstellenname": "Leitstelle Ortenau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "OffenburgKreis/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OSNABR",
+    "leitstellenname": "Leitstelle Osnabrück",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "OsnabrückRegionalleitstelle Osnabrück kAÖR",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OSTALB",
+    "leitstellenname": "Leitstelle Ostalb",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "AalenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OSTFRI",
+    "leitstellenname": "Leitstelle Ostfriesland",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Stadt WittmundKooperative Regionalleitstelle Ostfriesland AöR",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-OSTSAC",
+    "leitstellenname": "Leitstelle Ostsachsen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "HoyerswerdaBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-PADERB",
+    "leitstellenname": "Leitstelle Paderborn",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Büren-AhdenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-PASSAU",
+    "leitstellenname": "Leitstelle Passau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "PassauZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-PELIKA",
+    "leitstellenname": "Pelikan Berlin („Leitstelle II“)Leitstelle Ehrenamt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BerlinDLRG Berlin",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-PFORZH",
+    "leitstellenname": "Leitstelle Pforzheim",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "PforzheimStadt (Berufsfeuerwehr)/Kreis/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-REGENS",
+    "leitstellenname": "Leitstelle Regensburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "RegensburgStadt Regensburg (Berufsfeuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
     "leitstellen_id": "DE-SL-ILS-REGION",
     "leitstellenname": "ILS Regionalverband Saarbrücken",
     "bundesland": "SL",
@@ -4106,6 +5384,150 @@
       7.1372,
       49.3777
     ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-REMSCH",
+    "leitstellenname": "Leitstelle Remscheid",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "RemscheidBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-REMSMU",
+    "leitstellenname": "Leitstelle Rems-Murr",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WaiblingenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-REUTLI",
+    "leitstellenname": "Leitstelle Reutlingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ReutlingenBerufsfeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-RHEINE",
+    "leitstellenname": "Leitstelle Rhein-Erft Kreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KerpenFeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-RHEING",
+    "leitstellenname": "Leitstelle Rheingau-Taunus",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad SchwalbachKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-RHEINK",
+    "leitstellenname": "Leitstelle Rhein-Kreis-Neuss",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "NeussKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-RHEINN",
+    "leitstellenname": "Leitstelle Rhein-Neckar",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Heidelberg/LadenburggGmbH von Stadt Heidelberg, Rhein-Neckar-Kreis und DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-RHEINS",
+    "leitstellenname": "Leitstelle Rhein-Sieg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SiegburgKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ROSENH",
+    "leitstellenname": "Leitstelle Rosenheim",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Feuerwehr RosenheimStadtRosenheim(Feuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ROSTOC",
+    "leitstellenname": "Leitstelle Rostock",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "RostockBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ROTENB",
+    "leitstellenname": "Leitstelle Rotenburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ZevenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ROTKRE",
+    "leitstellenname": "Rotkreuz BerlinLeitstelle Ehrenamt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BerlinDRK Berlin",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ROTTWE",
+    "leitstellenname": "Leitstelle Rottweil",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "RottweilDRK / Landkreis Rottweil",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAALEK",
+    "leitstellenname": "Leitstelle Saalekreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MerseburgKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAAR",
+    "leitstellenname": "Leitstelle Saar",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SaarbrückenZweckverband für Rettungsdienst und Feuerwehralarmierung[22]",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAARFU",
+    "leitstellenname": "Saarfürst (FLZ)",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SaarbrückenInnenministerium",
+    "review_status": "community",
+    "bbox": null
   },
   {
     "leitstellen_id": "DE-SL-ILS-SAARLO",
@@ -4136,6 +5558,114 @@
     ]
   },
   {
+    "leitstellen_id": "DE-SL-ILS-SALZLA",
+    "leitstellenname": "Leitstelle Salzlandkreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StaßfurtKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAMABE",
+    "leitstellenname": "Sama Berlin 30Arbeiter-Samariter-Bund\n(„Leitstelle I“)Leitstelle Ehrenamt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BerlinASB Berlin (WRD)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAUERL",
+    "leitstellenname": "Leitstelle Sauerland",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MeschedeKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHAUM",
+    "leitstellenname": "Leitstelle Schaumburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StadthagenKreise",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHMAL",
+    "leitstellenname": "Leitstelle Schmalkalden-Meiningen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MeiningenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHWAE",
+    "leitstellenname": "Leitstelle Schwäbisch Hall",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Schwäbisch HallILS Schwäbisch Hall gGmbHLandkreis Schwäbisch Hall",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHWAL",
+    "leitstellenname": "Leitstelle Schwalm-Eder",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Homberg (Efze)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHWAR",
+    "leitstellenname": "Leitstelle Schwarzwald-Baar",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Villingen-SchwenningenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SCHWEI",
+    "leitstellenname": "Leitstelle Schweinfurt",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Schweinfurt[8]BRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SIWI",
+    "leitstellenname": "Leitstelle SiWi",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Siegen-WeidenauKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-STRAUB",
+    "leitstellenname": "Leitstelle Straubing",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StraubingBRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-STUTTG",
+    "leitstellenname": "Leitstelle Stuttgart",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StuttgartBerufsfeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
     "leitstellen_id": "DE-SL-ILS-STWEND",
     "leitstellenname": "ILS St. Wendel",
     "bundesland": "SL",
@@ -4148,6 +5678,249 @@
       7.3099,
       49.6394
     ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SUED",
+    "leitstellenname": "Leitstelle Süd",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Bad OldesloeKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SUHL",
+    "leitstellenname": "Leitstelle Suhl",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Zella-MehlisRettungsdienstzweckverband",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-TRAUNS",
+    "leitstellenname": "Leitstelle Traunstein",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "TraunsteinZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-TRIER",
+    "leitstellenname": "Leitstelle Trier",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "TrierBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-TUEBIN",
+    "leitstellenname": "Leitstelle Tübingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "TübingenDRK/Feuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-TUTTLI",
+    "leitstellenname": "Leitstelle Tuttlingen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "TuttlingenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-UELZEN",
+    "leitstellenname": "Leitstelle Uelzen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "UelzenKreis/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ULM",
+    "leitstellenname": "Leitstelle Ulm",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "UlmFeuerwehr/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-UNNA",
+    "leitstellenname": "Leitstelle Unna",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "UnnaKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-UNSTRU",
+    "leitstellenname": "Leitstelle Unstrut-Hainich",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "MühlhausenKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-VERDEN",
+    "leitstellenname": "Leitstelle Verden",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Verden (Aller)Kreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-VOGELS",
+    "leitstellenname": "Leitstelle Vogelsberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "LauterbachKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-VORPOM",
+    "leitstellenname": "Leitstelle Vorpommern-Rügen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "StralsundLandkreis Vorpommern-Rügen",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WALDEC",
+    "leitstellenname": "Leitstelle Waldeck-Frankenberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "KorbachKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WALDSH",
+    "leitstellenname": "Leitstelle Waldshut",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Waldshut-TiengenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WEIMAR",
+    "leitstellenname": "Leitstelle Weimarer Land",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ApoldaKreis/DRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WERRAM",
+    "leitstellenname": "Leitstelle Werra-Meißner",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "EschwegeKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WESEL",
+    "leitstellenname": "Leitstelle Wesel",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WeselKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WESTME",
+    "leitstellenname": "Leitstelle Westmecklenburg (ILWM)",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "SchwerinBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WESTPO",
+    "leitstellenname": "Leitstelle WestPolizei: Westwind",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ElmshornKreis Pinneberg/Polizei",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WESTTH",
+    "leitstellenname": "Leitstelle Westthüringen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ArnstadtEisenachZweckverband",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WETTER",
+    "leitstellenname": "Leitstelle Wetterau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "FriedbergKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WITTEN",
+    "leitstellenname": "Leitstelle Wittenberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "Lutherstadt WittenbergKreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WUERZB",
+    "leitstellenname": "Leitstelle Würzburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WürzburgStadt Würzburg (Berufsfeuerwehr)",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-WUPPER",
+    "leitstellenname": "Leitstelle Wupper",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "WuppertalBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ZOLLER",
+    "leitstellenname": "Leitstelle Zollernalb",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "BalingenDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-ZWICKA",
+    "leitstellenname": "Leitstelle Zwickau",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": "ZwickauBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
   },
   {
     "leitstellen_id": "DE-SN-ILS-BAUTZE",
@@ -4570,6 +6343,15 @@
     ]
   },
   {
+    "leitstellen_id": "DE-TH-ILS-ILMKRE",
+    "leitstellenname": "Leitstelle Ilm-Kreis",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": "ArnstadtLandkreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
     "leitstellen_id": "DE-TH-ILS-JENA",
     "leitstellenname": "Leitstelle Jena",
     "bundesland": "TH",
@@ -4584,6 +6366,24 @@
     ]
   },
   {
+    "leitstellen_id": "DE-TH-ILS-KREUZN",
+    "leitstellenname": "Leitstelle Kreuznach",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": "Bad KreuznachDRK",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-KYFFHA",
+    "leitstellenname": "Leitstelle Kyffhäuserkreis",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": "SondershausenLandkreis",
+    "review_status": "community",
+    "bbox": null
+  },
+  {
     "leitstellen_id": "DE-TH-ILS-NORDHA",
     "leitstellenname": "Leitstelle Nordhausen",
     "bundesland": "TH",
@@ -4596,6 +6396,15 @@
       11.4752,
       51.649
     ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-NORDHO",
+    "leitstellenname": "Leitstelle Nordhorn",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": "NordhornKreis",
+    "review_status": "community",
+    "bbox": null
   },
   {
     "leitstellen_id": "DE-TH-ILS-SAALFE",
@@ -4624,6 +6433,15 @@
       11.285,
       50.8513
     ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-WARTBU",
+    "leitstellenname": "Leitstelle Wartburgkreis",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": "EisenachBerufsfeuerwehr",
+    "review_status": "community",
+    "bbox": null
   },
   {
     "leitstellen_id": "DE-TH-ILS-WEIMAR",

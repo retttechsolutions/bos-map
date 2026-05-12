@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-MARK",
+    "leitstellenname": "Leitstelle Mark",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "AltenaKreis",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Märkischer Kreis | Der Notruf 112 läuft aus dem gesamten Kreisgebiet in der Leitstelle Mark auf. Lediglich Notrufe aus dem Festnetz im Bereich der BF Iserlohn werden in Iserlohn angenommen und bearbeitet. Nach Umstellung auf die neuen Funkrufnamen jetzt „Leitstelle Mark“"
+  },
+  "geometry": null
+}

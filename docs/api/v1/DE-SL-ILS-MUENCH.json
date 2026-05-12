@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-MUENCH",
+    "leitstellenname": "Leitstelle München",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "MünchenStadt München (Berufsfeuerwehr)",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis MünchenMünchen | Inbetriebnahme 1997 als erste ILS in Bayern"
+  },
+  "geometry": null
+}

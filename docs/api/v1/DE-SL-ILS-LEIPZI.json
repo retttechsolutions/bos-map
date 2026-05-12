@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-LEIPZI",
+    "leitstellenname": "Leitstelle Leipzig",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "LeipzigBerufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Leipzig(L)Landkreis Leipzig(L)Landkreis Nordsachsen(TDO) | Inbetriebnahme 2016"
+  },
+  "geometry": null
+}

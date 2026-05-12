@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-INGOLS",
+    "leitstellenname": "Leitstelle Ingolstadt",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "IngolstadtZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Eichstätt(EI)Ingolstadt(IN)Landkreis Neuburg-Schrobenhausen(ND)Landkreis Pfaffenhofen an der Ilm(PAF) | Inbetriebnahme 11. Februar 2008"
+  },
+  "geometry": null
+}

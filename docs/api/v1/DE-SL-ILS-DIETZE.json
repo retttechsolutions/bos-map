@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-DIETZE",
+    "leitstellenname": "Leitstelle Dietzenbach",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "DietzenbachEigenbetrieb Kreis",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Offenbach | Notrufe aus dem Stadtteil Zeppelinheim (zu Neu-Isenburg) gehen bei der Leitstelle Frankfurt ein und müssen von dort zur Leitstelle Dietzenbach weitergeleitet werden."
+  },
+  "geometry": null
+}

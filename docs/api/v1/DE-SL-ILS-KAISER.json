@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-KAISER",
+    "leitstellenname": "Leitstelle Kaiserslautern",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "KaiserslauternBerufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis KaiserslauternKaiserslauternLandkreis KuselDonnersbergkreis | Funkrufnamen: Leitstelle Kaiser"
+  },
+  "geometry": null
+}

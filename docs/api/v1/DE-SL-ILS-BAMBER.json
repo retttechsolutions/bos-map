@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-BAMBER",
+    "leitstellenname": "Leitstelle Bamberg-Forchheim",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "BambergZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Bamberg(BA)Bamberg(BA)Landkreis Forchheim(FO) | Inbetriebnahme ILS 16. März 2010"
+  },
+  "geometry": null
+}

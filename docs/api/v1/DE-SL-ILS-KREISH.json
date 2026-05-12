@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-KREISH",
+    "leitstellenname": "Leitstelle Kreis Heinsberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "ErkelenzKreis",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Kreis Heinsberg | Bei Einführung der OPTA-Funkrufnamen von Florian Heinsberg in Leitstelle Kreis Heinsberg geändert"
+  },
+  "geometry": null
+}

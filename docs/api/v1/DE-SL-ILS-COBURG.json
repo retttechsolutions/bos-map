@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-COBURG",
+    "leitstellenname": "Leitstelle Coburg",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "Ebersdorf bei CoburgBRK",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Coburg(CO)Coburg(CO)Landkreis Kronach(KC)Landkreis Lichtenfels(LIF) | Inbetriebnahme 22. Juni 2010"
+  },
+  "geometry": null
+}

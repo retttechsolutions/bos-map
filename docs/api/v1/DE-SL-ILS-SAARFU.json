@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-SAARFU",
+    "leitstellenname": "Saarfürst (FLZ)",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "SaarbrückenInnenministerium",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Regionalverband SaarbrückenLandkreis Merzig-WadernLandkreis NeunkirchenLandkreis SaarlouisSaarpfalz-KreisLandkreis St. Wendel | Seit 2010 zentrale Annahmestelle des Polizeinotrufes 110"
+  },
+  "geometry": null
+}

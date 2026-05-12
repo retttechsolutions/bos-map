@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-TRAUNS",
+    "leitstellenname": "Leitstelle Traunstein",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "TraunsteinZweckverband für Rettungsdienst und Feuerwehralarmierung",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Traunstein(TS)Landkreis Altötting(AÖ)Landkreis Berchtesgadener Land(BGL)Landkreis Mühldorf am Inn(MÜ) | Inbetriebnahme 14. Januar 2010"
+  },
+  "geometry": null
+}

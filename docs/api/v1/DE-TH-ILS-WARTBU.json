@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-TH-ILS-WARTBU",
+    "leitstellenname": "Leitstelle Wartburgkreis",
+    "bundesland": "TH",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "EisenachBerufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Wartburgkreis | 1994 – 22. Juli 2025"
+  },
+  "geometry": null
+}

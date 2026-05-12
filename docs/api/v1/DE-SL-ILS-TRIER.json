@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-TRIER",
+    "leitstellenname": "Leitstelle Trier",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "TrierBerufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Trier-SaarburgTrierLandkreis Bernkastel-WittlichEifelkreis Bitburg-PrümLandkreis VulkaneifelLandkreis Birkenfeld | Der Landkreis Birkenfeld wird seit dem 20. Dezember 2024 von der Leitstelle Trier disponiert[21]"
+  },
+  "geometry": null
+}

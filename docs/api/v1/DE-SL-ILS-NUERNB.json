@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-NUERNB",
+    "leitstellenname": "Leitstelle Nürnberg",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "NürnbergStadt Nürnberg (Berufsfeuerwehr)",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Landkreis Nürnberger Land(LAU)Nürnberg(N)Fürth(FÜ)Erlangen(ER)Landkreis Fürth(FÜ)Landkreis Erlangen-Höchstadt(ERH) | Inbetriebnahme 20. Oktober 2010"
+  },
+  "geometry": null
+}

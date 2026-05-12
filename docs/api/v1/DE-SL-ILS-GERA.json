@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-SL-ILS-GERA",
+    "leitstellenname": "Leitstelle Gera",
+    "bundesland": "SL",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": "GeraBerufsfeuerwehr",
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "community",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "community",
+    "bemerkung": "Gera(G)Altenburger Land(ABG)Landkreis Greiz(GRZ)Saale-Orla-Kreis(SOK) | Inbetriebnahme der ZLS im April 1992;\nUmbau im Jahr 2008;\nEinweihung 26. Februar 2009;"
+  },
+  "geometry": null
+}
