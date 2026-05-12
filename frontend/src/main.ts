@@ -15,7 +15,10 @@ import { AddressSearch } from './search/AddressSearch'
 import { InfoPanel } from './ui/InfoPanel'
 import type { ILSFeature } from './types/ils'
 
-const DATA_BASE = import.meta.env.BASE_URL
+// Data is always served from the pipeline/data repo on GitHub Pages.
+// VITE_DATA_BASE_URL can be set at build time to override (e.g. for local dev).
+const DATA_BASE = import.meta.env.VITE_DATA_BASE_URL
+  ?? 'https://retttechsolutions.github.io/BOS-Map/'
 
 const mapCtrl = new MapController('map')
 const spatialIndex = new SpatialIndex()
