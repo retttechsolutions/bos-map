@@ -70,6 +70,20 @@
     ]
   },
   {
+    "leitstellen_id": "DE-BE-ILS-BERLIN",
+    "leitstellenname": "ILS Berlin",
+    "bundesland": "BE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.0883,
+      52.3382,
+      13.7605,
+      52.6754
+    ]
+  },
+  {
     "leitstellen_id": "DE-BW-ILS-AALEN",
     "leitstellenname": "Leitstelle Aalen",
     "bundesland": "BW",
@@ -560,6 +574,2470 @@
     ]
   },
   {
+    "leitstellen_id": "DE-BY-ILS-AICHAC",
+    "leitstellenname": "ILS Aichach-Friedberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8643,
+      48.1916,
+      11.3117,
+      48.6202
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ALTOET",
+    "leitstellenname": "ILS Altötting",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.5425,
+      48.0444,
+      12.9447,
+      48.3584
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-AMBERGLK",
+    "leitstellenname": "ILS Amberg-Sulzbach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.5109,
+      49.2144,
+      12.1196,
+      49.7609
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-AMBERGST",
+    "leitstellenname": "ILS Amberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.7767,
+      49.4118,
+      11.9146,
+      49.4971
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ANSBACLK",
+    "leitstellenname": "ILS Ansbach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0947,
+      48.9768,
+      10.9134,
+      49.492
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ANSBACST",
+    "leitstellenname": "ILS Ansbach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4543,
+      49.2337,
+      10.6568,
+      49.3437
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ASCHAFLK",
+    "leitstellenname": "ILS Aschaffenburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9759,
+      49.8325,
+      9.4863,
+      50.1494
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ASCHAFST",
+    "leitstellenname": "ILS Aschaffenburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0801,
+      49.9206,
+      9.2378,
+      50.0213
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-AUGSBULK",
+    "leitstellenname": "ILS Augsburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4947,
+      48.0892,
+      10.987,
+      48.6386
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-AUGSBUST",
+    "leitstellenname": "ILS Augsburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7642,
+      48.2582,
+      10.9592,
+      48.4587
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BADKIS",
+    "leitstellenname": "ILS Bad Kissingen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.6232,
+      50.0297,
+      10.3701,
+      50.4259
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BADTOE",
+    "leitstellenname": "ILS Bad Tölz-Wolfratshausen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2627,
+      47.4953,
+      11.6801,
+      47.9802
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BAMBERLK",
+    "leitstellenname": "ILS Bamberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4399,
+      49.7211,
+      11.2526,
+      50.0953
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BAMBERST",
+    "leitstellenname": "ILS Bamberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8264,
+      49.8425,
+      10.96,
+      49.927
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BAYREULK",
+    "leitstellenname": "ILS Bayreuth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.1843,
+      49.6139,
+      11.9039,
+      50.1336
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BAYREUST",
+    "leitstellenname": "ILS Bayreuth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.4748,
+      49.8883,
+      11.6725,
+      49.977
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-BERCHT",
+    "leitstellenname": "ILS Berchtesgadener Land",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.6959,
+      47.4634,
+      13.0987,
+      47.9626
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-CHAM",
+    "leitstellenname": "ILS Cham",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.3043,
+      49.0286,
+      13.1709,
+      49.4906
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-COBURGLK",
+    "leitstellenname": "ILS Coburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7125,
+      50.088,
+      11.2018,
+      50.3968
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-COBURGST",
+    "leitstellenname": "ILS Coburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8874,
+      50.2217,
+      11.0639,
+      50.2986
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-DACHAU",
+    "leitstellenname": "ILS Dachau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.1103,
+      48.2016,
+      11.5821,
+      48.4555
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-DEGGEN",
+    "leitstellenname": "ILS Deggendorf",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.7496,
+      48.5989,
+      13.2593,
+      48.957
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-DILLIN",
+    "leitstellenname": "ILS Dillingen a.d.Donau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.2544,
+      48.4711,
+      10.7857,
+      48.7576
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-DINGOL",
+    "leitstellenname": "ILS Dingolfing-Landau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.3242,
+      48.4805,
+      12.9674,
+      48.7994
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-DONAUR",
+    "leitstellenname": "ILS Donau-Ries",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4015,
+      48.5841,
+      11.0416,
+      49.036
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-EBERSB",
+    "leitstellenname": "ILS Ebersberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.7478,
+      47.9312,
+      12.1003,
+      48.2269
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-EICHST",
+    "leitstellenname": "ILS Eichstätt",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9368,
+      48.7328,
+      11.7441,
+      49.0877
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ERDING",
+    "leitstellenname": "ILS Erding",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.7314,
+      48.1404,
+      12.2551,
+      48.4548
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ERLANGLK",
+    "leitstellenname": "ILS Erlangen-Höchstadt",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.5918,
+      49.4713,
+      11.2886,
+      49.7882
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ERLANGST",
+    "leitstellenname": "ILS Erlangen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9163,
+      49.5333,
+      11.0534,
+      49.6457
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FORCHH",
+    "leitstellenname": "ILS Forchheim",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9128,
+      49.5873,
+      11.3886,
+      49.8746
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FREISI",
+    "leitstellenname": "ILS Freising",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.4925,
+      48.2659,
+      12.0193,
+      48.6166
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FREYUN",
+    "leitstellenname": "ILS Freyung-Grafenau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.1679,
+      48.682,
+      13.8396,
+      48.9834
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FUERST",
+    "leitstellenname": "ILS Fürstenfeldbruck",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9929,
+      48.0878,
+      11.4125,
+      48.2967
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FUERTHLK",
+    "leitstellenname": "ILS Fürth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.6804,
+      49.3546,
+      11.0262,
+      49.549
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-FUERTHST",
+    "leitstellenname": "ILS Fürth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8932,
+      49.4365,
+      11.0286,
+      49.5411
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-GARMIS",
+    "leitstellenname": "ILS Garmisch-Partenkirchen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8695,
+      47.3934,
+      11.4215,
+      47.737
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-GUENZB",
+    "leitstellenname": "ILS Günzburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.1339,
+      48.1601,
+      10.5995,
+      48.5277
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-HASSBE",
+    "leitstellenname": "ILS Haßberge",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.3203,
+      49.8552,
+      10.8793,
+      50.2365
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-HOFLK",
+    "leitstellenname": "ILS Hof",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.5286,
+      50.1032,
+      12.1621,
+      50.4248
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-HOFST",
+    "leitstellenname": "ILS Hof",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8074,
+      50.2671,
+      11.9721,
+      50.355
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-INGOLS",
+    "leitstellenname": "ILS Ingolstadt",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2559,
+      48.6843,
+      11.5033,
+      48.8231
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KAUFBE",
+    "leitstellenname": "ILS Kaufbeuren",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.5512,
+      47.8409,
+      10.6611,
+      47.9218
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KELHEI",
+    "leitstellenname": "ILS Kelheim",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.5949,
+      48.5787,
+      12.1338,
+      49.0233
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KEMPTE",
+    "leitstellenname": "ILS Kempten (Allgäu)",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.2331,
+      47.6951,
+      10.3779,
+      47.7779
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KITZIN",
+    "leitstellenname": "ILS Kitzingen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.04,
+      49.5899,
+      10.5548,
+      49.9159
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KRONAC",
+    "leitstellenname": "ILS Kronach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.1685,
+      50.1593,
+      11.6104,
+      50.5232
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-KULMBA",
+    "leitstellenname": "ILS Kulmbach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2508,
+      49.9346,
+      11.6898,
+      50.2685
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-LANDSB",
+    "leitstellenname": "ILS Landsberg am Lech",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7483,
+      47.8421,
+      11.1702,
+      48.2367
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-LANDSHLK",
+    "leitstellenname": "ILS Landshut",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8779,
+      48.3163,
+      12.5092,
+      48.7726
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-LANDSHST",
+    "leitstellenname": "ILS Landshut",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.0194,
+      48.5082,
+      12.2849,
+      48.5955
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-LICHTE",
+    "leitstellenname": "ILS Lichtenfels",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8746,
+      49.9896,
+      11.3636,
+      50.2187
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-LINDAU",
+    "leitstellenname": "ILS Lindau (Bodensee)",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.6021,
+      47.5286,
+      10.0773,
+      47.687
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MAINSP",
+    "leitstellenname": "ILS Main-Spessart",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3728,
+      49.7445,
+      10.0462,
+      50.2435
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MEMMIN",
+    "leitstellenname": "ILS Memmingen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0847,
+      47.9157,
+      10.234,
+      48.0475
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MIESBA",
+    "leitstellenname": "ILS Miesbach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.598,
+      47.5812,
+      12.0624,
+      47.9426
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MILTEN",
+    "leitstellenname": "ILS Miltenberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0333,
+      49.5736,
+      9.4789,
+      49.9385
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MUEHLD",
+    "leitstellenname": "ILS Mühldorf a.Inn",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.0321,
+      48.0831,
+      12.6095,
+      48.4297
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MUENCHLK",
+    "leitstellenname": "ILS München",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.3852,
+      47.917,
+      11.8521,
+      48.2995
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-MUENCHST",
+    "leitstellenname": "ILS München",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.3609,
+      48.0616,
+      11.7231,
+      48.2481
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NEUBUR",
+    "leitstellenname": "ILS Neuburg-Schrobenhausen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9474,
+      48.4637,
+      11.4574,
+      48.8229
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NEUMAR",
+    "leitstellenname": "ILS Neumarkt i.d.OPf.",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.186,
+      48.9515,
+      11.9425,
+      49.4325
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NEUSTALK",
+    "leitstellenname": "ILS Neustadt a.d.Waldnaab",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.6287,
+      49.5039,
+      12.5938,
+      49.8562
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NEUULM",
+    "leitstellenname": "ILS Neu-Ulm",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9673,
+      48.1085,
+      10.3152,
+      48.4775
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NUERNBLK",
+    "leitstellenname": "ILS Nürnberger Land",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.1283,
+      49.3022,
+      11.6016,
+      49.7151
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-NUERNBST",
+    "leitstellenname": "ILS Nürnberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9879,
+      49.3319,
+      11.2801,
+      49.5403
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-OBERAL",
+    "leitstellenname": "ILS Oberallgäu",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9583,
+      47.2701,
+      10.5116,
+      47.8636
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-OSTALL",
+    "leitstellenname": "ILS Ostallgäu",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.326,
+      47.5139,
+      10.9528,
+      48.1115
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-PASSAULK",
+    "leitstellenname": "ILS Passau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.9834,
+      48.293,
+      13.8376,
+      48.7617
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-PASSAUST",
+    "leitstellenname": "ILS Passau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.3025,
+      48.5404,
+      13.5143,
+      48.6134
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-PFAFFE",
+    "leitstellenname": "ILS Pfaffenhofen a.d.Ilm",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2951,
+      48.4062,
+      11.72,
+      48.8143
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-REGEN",
+    "leitstellenname": "ILS Regen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.7638,
+      48.8573,
+      13.4167,
+      49.1736
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-REGENSLK",
+    "leitstellenname": "ILS Regensburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.6591,
+      48.7649,
+      12.4913,
+      49.2236
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-REGENSST",
+    "leitstellenname": "ILS Regensburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.0293,
+      48.9669,
+      12.1917,
+      49.0762
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-RHOENG",
+    "leitstellenname": "ILS Rhön-Grabfeld",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9204,
+      50.1964,
+      10.6114,
+      50.5642
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ROSENHLK",
+    "leitstellenname": "ILS Rosenheim",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8018,
+      47.6009,
+      12.444,
+      48.1432
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ROSENHST",
+    "leitstellenname": "ILS Rosenheim",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.0543,
+      47.8105,
+      12.1531,
+      47.8871
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ROTH",
+    "leitstellenname": "ILS Roth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8372,
+      48.9979,
+      11.4265,
+      49.3916
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-ROTTAL",
+    "leitstellenname": "ILS Rottal-Inn",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.4706,
+      48.2067,
+      13.177,
+      48.6171
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-SCHWAB",
+    "leitstellenname": "ILS Schwabach",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9704,
+      49.2934,
+      11.0874,
+      49.3759
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-SCHWAN",
+    "leitstellenname": "ILS Schwandorf",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.9342,
+      49.1434,
+      12.6443,
+      49.594
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-SCHWEILK",
+    "leitstellenname": "ILS Schweinfurt",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9571,
+      49.8207,
+      10.5313,
+      50.2317
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-SCHWEIST",
+    "leitstellenname": "ILS Schweinfurt",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.1653,
+      50.0094,
+      10.2751,
+      50.0948
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-STARNB",
+    "leitstellenname": "ILS Starnberg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.1292,
+      47.8208,
+      11.4341,
+      48.1362
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-STRAUBLK",
+    "leitstellenname": "ILS Straubing-Bogen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.1277,
+      48.7156,
+      12.8911,
+      49.1195
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-STRAUBST",
+    "leitstellenname": "ILS Straubing",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.4802,
+      48.8417,
+      12.6674,
+      48.9243
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-TIRSCH",
+    "leitstellenname": "ILS Tirschenreuth",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8038,
+      49.7538,
+      12.5513,
+      50.0613
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-TRAUNS",
+    "leitstellenname": "ILS Traunstein",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.3236,
+      47.625,
+      12.8858,
+      48.1639
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-UNTERA",
+    "leitstellenname": "ILS Unterallgäu",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0768,
+      47.8201,
+      10.7079,
+      48.2297
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WEIDEN",
+    "leitstellenname": "ILS Weiden i.d.OPf.",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.064,
+      49.6146,
+      12.2665,
+      49.7119
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WEILHE",
+    "leitstellenname": "ILS Weilheim-Schongau",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7159,
+      47.6156,
+      11.43,
+      47.9548
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WEISSE",
+    "leitstellenname": "ILS Weißenburg-Gunzenhausen",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.6302,
+      48.8594,
+      11.2014,
+      49.205
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WUERZBLK",
+    "leitstellenname": "ILS Würzburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.6254,
+      49.4804,
+      10.1892,
+      49.9536
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WUERZBST",
+    "leitstellenname": "ILS Würzburg",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.8717,
+      49.7102,
+      10.0144,
+      49.8456
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BY-ILS-WUNSIE",
+    "leitstellenname": "ILS Wunsiedel i.Fichtelgebirge",
+    "bundesland": "BY",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.7891,
+      49.9707,
+      12.2754,
+      50.2277
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HB-ILS-BREMEN",
+    "leitstellenname": "ILS Bremen",
+    "bundesland": "HB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4817,
+      53.011,
+      8.9909,
+      53.5973
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HB-ILS-BREMER",
+    "leitstellenname": "ILS Bremerhaven",
+    "bundesland": "HB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4927,
+      53.4712,
+      8.6609,
+      53.6101
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-BERGST",
+    "leitstellenname": "ILS Bergstraße",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3561,
+      49.3954,
+      8.9503,
+      49.7546
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-DARMSTLK",
+    "leitstellenname": "ILS Darmstadt-Dieburg",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.5198,
+      49.7222,
+      9.0505,
+      50.0018
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-DARMSTST",
+    "leitstellenname": "ILS Darmstadt",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.56,
+      49.7958,
+      8.7497,
+      49.9542
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-FRANKF",
+    "leitstellenname": "ILS Frankfurt am Main",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4726,
+      50.0156,
+      8.8005,
+      50.2263
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-FULDA",
+    "leitstellenname": "ILS Fulda",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.4273,
+      50.3561,
+      10.083,
+      50.8096
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-GIESSE",
+    "leitstellenname": "ILS Gießen",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.5191,
+      50.415,
+      9.1341,
+      50.7093
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-GROSSG",
+    "leitstellenname": "ILS Groß-Gerau",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2882,
+      49.7171,
+      8.6302,
+      50.0837
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-HERSFE",
+    "leitstellenname": "ILS Hersfeld-Rotenburg",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.4333,
+      50.7178,
+      10.0639,
+      51.0856
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-HOCHTA",
+    "leitstellenname": "ILS Hochtaunuskreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3152,
+      50.1555,
+      8.7124,
+      50.415
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-KASSELLK",
+    "leitstellenname": "ILS Kassel",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0929,
+      51.1704,
+      9.7595,
+      51.6575
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-KASSELST",
+    "leitstellenname": "ILS Kassel",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3515,
+      51.2619,
+      9.5699,
+      51.3687
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-LAHNDI",
+    "leitstellenname": "ILS Lahn-Dill-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1097,
+      50.3958,
+      8.6508,
+      50.8828
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-LIMBUR",
+    "leitstellenname": "ILS Limburg-Weilburg",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9642,
+      50.2637,
+      8.4672,
+      50.5997
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-MAINKI",
+    "leitstellenname": "ILS Main-Kinzig-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.7806,
+      50.0662,
+      9.7489,
+      50.4634
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-MAINTA",
+    "leitstellenname": "ILS Main-Taunus-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3169,
+      49.9965,
+      8.6008,
+      50.2028
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-MARBUR",
+    "leitstellenname": "ILS Marburg-Biedenkopf",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3546,
+      50.6738,
+      9.1516,
+      50.9967
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-ODENWA",
+    "leitstellenname": "ILS Odenwaldkreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.7844,
+      49.4706,
+      9.1508,
+      49.8562
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-OFFENBLK",
+    "leitstellenname": "ILS Offenbach",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.5909,
+      49.9473,
+      9.0488,
+      50.1335
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-OFFENBST",
+    "leitstellenname": "ILS Offenbach am Main",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.7178,
+      50.047,
+      8.8433,
+      50.1372
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-RHEING",
+    "leitstellenname": "ILS Rheingau-Taunus-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.7725,
+      49.9718,
+      8.4109,
+      50.2962
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-SCHWAL",
+    "leitstellenname": "ILS Schwalm-Eder-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9727,
+      50.7728,
+      9.7809,
+      51.2576
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-VOGELS",
+    "leitstellenname": "ILS Vogelsbergkreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9045,
+      50.3855,
+      9.65,
+      50.8366
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-WALDEC",
+    "leitstellenname": "ILS Waldeck-Frankenberg",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4734,
+      50.9356,
+      9.2214,
+      51.5186
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-WERRAM",
+    "leitstellenname": "ILS Werra-Meißner-Kreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.625,
+      50.9922,
+      10.236,
+      51.4211
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-WETTER",
+    "leitstellenname": "ILS Wetteraukreis",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.5141,
+      50.1621,
+      9.2904,
+      50.5001
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HE-ILS-WIESBA",
+    "leitstellenname": "ILS Wiesbaden",
+    "bundesland": "HE",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1103,
+      49.9944,
+      8.3861,
+      50.1518
+    ]
+  },
+  {
+    "leitstellen_id": "DE-HH-ILS-HAMBUR",
+    "leitstellenname": "ILS Hamburg",
+    "bundesland": "HH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4199,
+      53.3951,
+      10.326,
+      53.9643
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-LUDWIG",
+    "leitstellenname": "ILS Ludwigslust-Parchim",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.5937,
+      53.1103,
+      12.3664,
+      53.7971
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-MECKLE",
+    "leitstellenname": "ILS Mecklenburgische Seenplatte",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.2751,
+      53.1625,
+      13.796,
+      54.0049
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-NORDWE",
+    "leitstellenname": "ILS Nordwestmecklenburg",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7477,
+      53.5664,
+      11.8105,
+      54.0341
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-ROSTOCLK",
+    "leitstellenname": "ILS Rostock",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.5115,
+      53.5673,
+      12.816,
+      54.275
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-ROSTOCST",
+    "leitstellenname": "ILS Rostock",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.9985,
+      54.0506,
+      12.2937,
+      54.2447
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-SCHWER",
+    "leitstellenname": "ILS Schwerin",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2958,
+      53.5444,
+      11.5056,
+      53.6875
+    ]
+  },
+  {
+    "leitstellen_id": "DE-MV-ILS-VORPOMLK",
+    "leitstellenname": "ILS Vorpommern-Rügen",
+    "bundesland": "MV",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.2781,
+      53.9738,
+      13.7672,
+      54.685
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-AMMERL",
+    "leitstellenname": "ILS Ammerland",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6975,
+      53.0596,
+      8.3146,
+      53.354
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-AURICH",
+    "leitstellenname": "ILS Aurich",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.8535,
+      53.3323,
+      7.8155,
+      53.7361
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-BRAUNS",
+    "leitstellenname": "ILS Braunschweig",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4124,
+      52.1867,
+      10.643,
+      52.3575
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-CELLE",
+    "leitstellenname": "ILS Celle",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.7258,
+      52.4883,
+      10.4444,
+      52.937
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-CLOPPE",
+    "leitstellenname": "ILS Cloppenburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6119,
+      52.6774,
+      8.2588,
+      53.1854
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-CUXHAV",
+    "leitstellenname": "ILS Cuxhaven",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4828,
+      53.2812,
+      9.2986,
+      53.8923
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-DELMEN",
+    "leitstellenname": "ILS Delmenhorst",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.5783,
+      52.9864,
+      8.7114,
+      53.1092
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-DIEPHO",
+    "leitstellenname": "ILS Diepholz",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2938,
+      52.4436,
+      9.1162,
+      53.0534
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-EMDEN",
+    "leitstellenname": "ILS Emden",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.9994,
+      53.3236,
+      7.3114,
+      53.4085
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-EMSLAN",
+    "leitstellenname": "ILS Emsland",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.9953,
+      52.2803,
+      7.832,
+      53.1175
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-FRIESL",
+    "leitstellenname": "ILS Friesland",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8099,
+      53.3047,
+      8.2073,
+      53.7948
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-GIFHOR",
+    "leitstellenname": "ILS Gifhorn",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.2596,
+      52.3204,
+      11.0088,
+      52.8342
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-GOETTI",
+    "leitstellenname": "ILS Göttingen",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.5484,
+      51.2952,
+      10.6825,
+      51.8332
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-GOSLAR",
+    "leitstellenname": "ILS Goslar",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0655,
+      51.6379,
+      10.7014,
+      52.0562
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-GRAFSC",
+    "leitstellenname": "ILS Grafschaft Bentheim",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.6809,
+      52.2412,
+      7.3175,
+      52.6531
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HAMELN",
+    "leitstellenname": "ILS Hameln-Pyrmont",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.1547,
+      51.9194,
+      9.6846,
+      52.2743
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HARBUR",
+    "leitstellenname": "ILS Harburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.5612,
+      53.129,
+      10.471,
+      53.5053
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HEIDEK",
+    "leitstellenname": "ILS Heidekreis",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3172,
+      52.5995,
+      10.2369,
+      53.2195
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HELMST",
+    "leitstellenname": "ILS Helmstedt",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.6009,
+      52.0477,
+      11.0862,
+      52.4718
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HILDES",
+    "leitstellenname": "ILS Hildesheim",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.6288,
+      51.8969,
+      10.264,
+      52.2969
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-HOLZMI",
+    "leitstellenname": "ILS Holzminden",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3078,
+      51.646,
+      9.8949,
+      52.0441
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-LEER",
+    "leitstellenname": "ILS Leer",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.6393,
+      53.0337,
+      7.8856,
+      53.6177
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-LUECHO",
+    "leitstellenname": "ILS Lüchow-Dannenberg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7505,
+      52.8458,
+      11.5981,
+      53.2501
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-LUENEB",
+    "leitstellenname": "ILS Lüneburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0361,
+      53.043,
+      11.1953,
+      53.3858
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-NIENBU",
+    "leitstellenname": "ILS Nienburg (Weser)",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.6985,
+      52.3879,
+      9.5378,
+      52.9095
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-NORTHE",
+    "leitstellenname": "ILS Northeim",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.4173,
+      51.5521,
+      10.162,
+      51.9478
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-OLDENBLK",
+    "leitstellenname": "ILS Oldenburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.0509,
+      52.7979,
+      8.694,
+      53.1721
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-OLDENBST",
+    "leitstellenname": "ILS Oldenburg (Oldb)",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1281,
+      53.0823,
+      8.3123,
+      53.2052
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-OSNABRLK",
+    "leitstellenname": "ILS Osnabrück",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.604,
+      52.0355,
+      8.5174,
+      52.7093
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-OSNABRST",
+    "leitstellenname": "ILS Osnabrück",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9302,
+      52.2205,
+      8.1805,
+      52.3388
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-OSTERH",
+    "leitstellenname": "ILS Osterholz",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4807,
+      53.1251,
+      9.0715,
+      53.3957
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-PEINE",
+    "leitstellenname": "ILS Peine",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9951,
+      52.175,
+      10.453,
+      52.4485
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-REGION",
+    "leitstellenname": "ILS Region Hannover",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.2381,
+      52.1284,
+      10.3034,
+      52.677
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-ROTENB",
+    "leitstellenname": "ILS Rotenburg (Wümme)",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.8965,
+      52.9174,
+      9.7584,
+      53.5938
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-SALZGI",
+    "leitstellenname": "ILS Salzgitter",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.2306,
+      52.013,
+      10.5077,
+      52.2228
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-SCHAUM",
+    "leitstellenname": "ILS Schaumburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9635,
+      52.0943,
+      9.4483,
+      52.4547
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-STADE",
+    "leitstellenname": "ILS Stade",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0185,
+      53.337,
+      9.7837,
+      53.8667
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-UELZEN",
+    "leitstellenname": "ILS Uelzen",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.1458,
+      52.7651,
+      10.8927,
+      53.2039
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-VECHTA",
+    "leitstellenname": "ILS Vechta",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.014,
+      52.4329,
+      8.4735,
+      52.8843
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-VERDEN",
+    "leitstellenname": "ILS Verden",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9037,
+      52.7677,
+      9.4639,
+      53.1845
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-WESERM",
+    "leitstellenname": "ILS Wesermarsch",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1642,
+      53.0993,
+      8.6577,
+      53.6163
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-WILHEL",
+    "leitstellenname": "ILS Wilhelmshaven",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9936,
+      53.5018,
+      8.1694,
+      53.6381
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-WITTMU",
+    "leitstellenname": "ILS Wittmund",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.4078,
+      53.3629,
+      7.9752,
+      53.7823
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-WOLFEN",
+    "leitstellenname": "ILS Wolfenbüttel",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.1752,
+      51.9705,
+      10.8893,
+      52.3033
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NI-ILS-WOLFSB",
+    "leitstellenname": "ILS Wolfsburg",
+    "bundesland": "NI",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.6472,
+      52.3159,
+      10.9069,
+      52.4951
+    ]
+  },
+  {
     "leitstellen_id": "DE-NW-ILS-AACHEN",
     "leitstellenname": "Aachen",
     "bundesland": "NW",
@@ -1026,5 +3504,1139 @@
     "adresse": null,
     "review_status": "needs_review",
     "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-AHRWEI",
+    "leitstellenname": "ILS Ahrweiler",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.7432,
+      50.3066,
+      7.3444,
+      50.6501
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-ALTENK",
+    "leitstellenname": "ILS Altenkirchen (Westerwald)",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.4392,
+      50.5637,
+      8.043,
+      50.9423
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-ALZEYW",
+    "leitstellenname": "ILS Alzey-Worms",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9046,
+      49.5881,
+      8.4799,
+      49.9
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-BADDUE",
+    "leitstellenname": "ILS Bad Dürkheim",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8246,
+      49.309,
+      8.3174,
+      49.6289
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-BADKRE",
+    "leitstellenname": "ILS Bad Kreuznach",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.3874,
+      49.6359,
+      7.9688,
+      50.001
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-BERNKA",
+    "leitstellenname": "ILS Bernkastel-Wittlich",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.6812,
+      49.673,
+      7.2638,
+      50.1315
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-BIRKEN",
+    "leitstellenname": "ILS Birkenfeld",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.028,
+      49.5486,
+      7.5263,
+      49.9005
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-COCHEM",
+    "leitstellenname": "ILS Cochem-Zell",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.9526,
+      49.9594,
+      7.3836,
+      50.2813
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-DONNER",
+    "leitstellenname": "ILS Donnersbergkreis",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6963,
+      49.4893,
+      8.1612,
+      49.7658
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-EIFELK",
+    "leitstellenname": "ILS Eifelkreis Bitburg-Prüm",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.1124,
+      49.8104,
+      6.7282,
+      50.3245
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-FRANKE",
+    "leitstellenname": "ILS Frankenthal (Pfalz)",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3083,
+      49.4853,
+      8.4231,
+      49.5828
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-GERMER",
+    "leitstellenname": "ILS Germersheim",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.055,
+      48.9666,
+      8.4131,
+      49.2977
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-KAISERLK",
+    "leitstellenname": "ILS Kaiserslautern",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.3925,
+      49.3068,
+      8.0026,
+      49.5971
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-KAISERST",
+    "leitstellenname": "ILS Kaiserslautern",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6272,
+      49.3586,
+      7.8707,
+      49.4951
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-KOBLEN",
+    "leitstellenname": "ILS Koblenz",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.4841,
+      50.283,
+      7.696,
+      50.4106
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-KUSEL",
+    "leitstellenname": "ILS Kusel",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.2464,
+      49.3634,
+      7.7282,
+      49.714
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-LANDAU",
+    "leitstellenname": "ILS Landau in der Pfalz",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8641,
+      49.1551,
+      8.1808,
+      49.3164
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-LUDWIG",
+    "leitstellenname": "ILS Ludwigshafen am Rhein",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2981,
+      49.4267,
+      8.477,
+      49.5501
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-MAINZ",
+    "leitstellenname": "ILS Mainz",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1434,
+      49.8956,
+      8.343,
+      50.0353
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-MAINZB",
+    "leitstellenname": "ILS Mainz-Bingen",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6648,
+      49.7485,
+      8.4001,
+      50.0826
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-MAYENK",
+    "leitstellenname": "ILS Mayen-Koblenz",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.9738,
+      50.1601,
+      7.681,
+      50.4766
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-NEUSTA",
+    "leitstellenname": "ILS Neustadt an der Weinstraße",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9996,
+      49.2961,
+      8.3174,
+      49.4009
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-NEUWIE",
+    "leitstellenname": "ILS Neuwied",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.21,
+      50.4118,
+      7.7115,
+      50.7182
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-PIRMAS",
+    "leitstellenname": "ILS Pirmasens",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.5142,
+      49.1413,
+      7.6734,
+      49.2347
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-RHEINH",
+    "leitstellenname": "ILS Rhein-Hunsrück-Kreis",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.2027,
+      49.8405,
+      7.7648,
+      50.2655
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-RHEINL",
+    "leitstellenname": "ILS Rhein-Lahn-Kreis",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.5784,
+      50.0665,
+      8.1228,
+      50.4148
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-RHEINP",
+    "leitstellenname": "ILS Rhein-Pfalz-Kreis",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2328,
+      49.2498,
+      8.5084,
+      49.6076
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-SPEYER",
+    "leitstellenname": "ILS Speyer",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3754,
+      49.283,
+      8.4918,
+      49.3761
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-SUEDLI",
+    "leitstellenname": "ILS Südliche Weinstraße",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8257,
+      48.9993,
+      8.3243,
+      49.3438
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-SUEDWE",
+    "leitstellenname": "ILS Südwestpfalz",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.3203,
+      49.0329,
+      7.9167,
+      49.377
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-TRIER",
+    "leitstellenname": "ILS Trier",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.5529,
+      49.699,
+      6.7465,
+      49.8577
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-TRIERS",
+    "leitstellenname": "ILS Trier-Saarburg",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.3575,
+      49.517,
+      7.0651,
+      49.9176
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-VULKAN",
+    "leitstellenname": "ILS Vulkaneifel",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.385,
+      50.0734,
+      7.0704,
+      50.3895
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-WESTER",
+    "leitstellenname": "ILS Westerwaldkreis",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.5949,
+      50.3474,
+      8.1522,
+      50.7401
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-WORMS",
+    "leitstellenname": "ILS Worms",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2384,
+      49.5864,
+      8.4464,
+      49.7367
+    ]
+  },
+  {
+    "leitstellen_id": "DE-RP-ILS-ZWEIBR",
+    "leitstellenname": "ILS Zweibrücken",
+    "bundesland": "RP",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.289,
+      49.1895,
+      7.4484,
+      49.3164
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SH-ILS-MITTE",
+    "leitstellenname": "IRLS Mitte",
+    "bundesland": "SH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3041,
+      54.0089,
+      10.7293,
+      54.647
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SH-ILS-NORD",
+    "leitstellenname": "IRLS Nord",
+    "bundesland": "SH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2786,
+      54.262,
+      10.0432,
+      55.0587
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SH-ILS-SUED",
+    "leitstellenname": "IRLS Süd",
+    "bundesland": "SH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8691,
+      53.3599,
+      11.3129,
+      54.5361
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SH-ILS-WEST",
+    "leitstellenname": "IRLS West",
+    "bundesland": "SH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.6789,
+      53.7077,
+      10.0583,
+      54.379
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-MERZIG",
+    "leitstellenname": "ILS Merzig-Wadern",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.3569,
+      49.3722,
+      6.963,
+      49.6134
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-NEUNKI",
+    "leitstellenname": "ILS Neunkirchen",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.9169,
+      49.2873,
+      7.2926,
+      49.4413
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-REGION",
+    "leitstellenname": "ILS Regionalverband Saarbrücken",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.7112,
+      49.1119,
+      7.1372,
+      49.3777
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAARLO",
+    "leitstellenname": "ILS Saarlouis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.5373,
+      49.2153,
+      6.9893,
+      49.5017
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-SAARPF",
+    "leitstellenname": "ILS Saarpfalz-Kreis",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.0621,
+      49.1149,
+      7.4038,
+      49.4082
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SL-ILS-STWEND",
+    "leitstellenname": "ILS St. Wendel",
+    "bundesland": "SL",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      6.8904,
+      49.4092,
+      7.3099,
+      49.6394
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-BAUTZE",
+    "leitstellenname": "ILS Bautzen",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.7607,
+      51.0188,
+      14.6991,
+      51.5446
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-CHEMNI",
+    "leitstellenname": "ILS Chemnitz",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.7271,
+      50.7413,
+      13.0542,
+      50.9038
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-DRESDE",
+    "leitstellenname": "ILS Dresden",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.5797,
+      50.9752,
+      13.9658,
+      51.1777
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-ERZGEB",
+    "leitstellenname": "ILS Erzgebirgskreis",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.4577,
+      50.3973,
+      13.5018,
+      50.8066
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-GOERLI",
+    "leitstellenname": "ILS Görlitz",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      14.4401,
+      50.8193,
+      15.0418,
+      51.5973
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-LEIPZILK",
+    "leitstellenname": "ILS Leipzig",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.1477,
+      50.9788,
+      12.9426,
+      51.4687
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-LEIPZIST",
+    "leitstellenname": "ILS Leipzig",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.2368,
+      51.2382,
+      12.5426,
+      51.4481
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-MEISSE",
+    "leitstellenname": "ILS Meißen",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.1822,
+      51.0073,
+      13.8565,
+      51.4542
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-MITTEL",
+    "leitstellenname": "ILS Mittelsachsen",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.6174,
+      50.6336,
+      13.6522,
+      51.2347
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-NORDSA",
+    "leitstellenname": "ILS Nordsachsen",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.1487,
+      51.1997,
+      13.2166,
+      51.685
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-SAECHS",
+    "leitstellenname": "ILS Sächsische Schweiz-Osterzgebirge",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.4214,
+      50.7169,
+      14.4021,
+      51.0899
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-VOGTLA",
+    "leitstellenname": "ILS Vogtlandkreis",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8715,
+      50.1715,
+      12.584,
+      50.6771
+    ]
+  },
+  {
+    "leitstellen_id": "DE-SN-ILS-ZWICKA",
+    "leitstellenname": "ILS Zwickau",
+    "bundesland": "SN",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.2267,
+      50.5467,
+      12.8061,
+      50.9237
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-ALTMAR",
+    "leitstellenname": "ILS Altmarkkreis Salzwedel",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.7552,
+      52.3868,
+      11.6375,
+      52.9416
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-ANHALT",
+    "leitstellenname": "ILS Anhalt-Bitterfeld",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8382,
+      51.5313,
+      12.5803,
+      52.1041
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-BOERDE",
+    "leitstellenname": "ILS Börde",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9337,
+      51.8929,
+      11.8571,
+      52.5083
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-BURGEN",
+    "leitstellenname": "ILS Burgenlandkreis",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.3648,
+      50.938,
+      12.2939,
+      51.3204
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-DESSAU",
+    "leitstellenname": "ILS Dessau-Roßlau",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.1121,
+      51.7338,
+      12.3515,
+      51.9707
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-HALLES",
+    "leitstellenname": "ILS Halle (Saale)",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8571,
+      51.4029,
+      12.0885,
+      51.5437
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-HARZ",
+    "leitstellenname": "ILS Harz",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.5612,
+      51.566,
+      11.4089,
+      52.0597
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-JERICH",
+    "leitstellenname": "ILS Jerichower Land",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.6873,
+      52.0008,
+      12.3308,
+      52.5757
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-MAGDEB",
+    "leitstellenname": "ILS Magdeburg",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.5185,
+      52.0252,
+      11.7639,
+      52.2284
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-MANSFE",
+    "leitstellenname": "ILS Mansfeld-Südharz",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.8821,
+      51.3398,
+      11.7804,
+      51.7299
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-SAALEK",
+    "leitstellenname": "ILS Saalekreis",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.393,
+      51.2334,
+      12.2083,
+      51.6754
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-SALZLA",
+    "leitstellenname": "ILS Salzlandkreis",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2396,
+      51.6288,
+      12.02,
+      52.0932
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-STENDA",
+    "leitstellenname": "ILS Stendal",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.3965,
+      52.3316,
+      12.2575,
+      53.0418
+    ]
+  },
+  {
+    "leitstellen_id": "DE-ST-ILS-WITTEN",
+    "leitstellenname": "ILS Wittenberg",
+    "bundesland": "ST",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.252,
+      51.6106,
+      13.1871,
+      52.0451
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-EISENA",
+    "leitstellenname": "Leitstelle Eisenach",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.877,
+      50.6268,
+      10.6172,
+      51.153
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-ERFURT",
+    "leitstellenname": "Leitstelle Erfurt",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.4009,
+      50.5469,
+      11.6972,
+      51.1194
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-GERA",
+    "leitstellenname": "Leitstelle Gera",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.8581,
+      50.5494,
+      12.6541,
+      51.1038
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-JENA",
+    "leitstellenname": "Leitstelle Jena",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.4205,
+      50.7468,
+      12.0212,
+      51.0878
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-NORDHA",
+    "leitstellenname": "Leitstelle Nordhausen",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9233,
+      51.032,
+      11.4752,
+      51.649
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-SAALFE",
+    "leitstellenname": "Leitstelle Saalfeld",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.9663,
+      50.3743,
+      11.9648,
+      50.835
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-SUHL",
+    "leitstellenname": "Leitstelle Suhl",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      10.0372,
+      50.2048,
+      11.285,
+      50.8513
+    ]
+  },
+  {
+    "leitstellen_id": "DE-TH-ILS-WEIMAR",
+    "leitstellenname": "Leitstelle Weimar",
+    "bundesland": "TH",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2349,
+      50.9167,
+      11.402,
+      51.0368
+    ]
   }
 ]

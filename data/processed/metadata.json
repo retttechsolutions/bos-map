@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-05-12T12:37:41.148590+00:00",
+  "generated_at": "2026-05-12T13:05:27.447600+00:00",
   "pipeline_version": "0.1.0",
-  "total_ils": 92,
-  "with_geometry": 40,
+  "total_ils": 350,
+  "with_geometry": 298,
   "by_bundesland": {
     "BB": 5,
+    "BE": 1,
     "BW": 35,
-    "NW": 52
+    "BY": 95,
+    "HB": 2,
+    "HE": 26,
+    "HH": 1,
+    "MV": 7,
+    "NI": 45,
+    "NW": 52,
+    "RP": 36,
+    "SH": 4,
+    "SL": 6,
+    "SN": 13,
+    "ST": 14,
+    "TH": 8
   },
   "by_review_status": {
-    "needs_review": 92
+    "needs_review": 350
   }
 }
