@@ -12,15 +12,30 @@ from validate import coverage, jsonschema_check, topology
 log = logging.getLogger(__name__)
 
 
-def run(input_dir: Path, schema_path: Path, vg250_dir: Path | None = None) -> bool:
-    """Run all validation checks. Returns True if all pass (warnings are ok)."""
-    input_dir = Path(input_dir)
+def run(
+    schema_path: Path,
+    input_dir: Path | None = None,
+    merged_file: Path | None = None,
+    vg250_dir: Path | None = None,
+) -> bool:
+    """Run all validation checks. Returns True if all pass (warnings are ok).
+
+    Pass either *merged_file* (single merged GeoJSON) or *input_dir* (directory
+    of per-state GeoJSON files). When using *input_dir* the deduplication that
+    build/merge.py performs has not yet run, so duplicate-ID warnings are expected.
+    """
     schema_path = Path(schema_path)
 
     all_features: list[dict] = []
-    for geojson_file in sorted(input_dir.glob("*.geojson")):
-        data = json.loads(geojson_file.read_text("utf-8"))
-        all_features.extend(data.get("features", []))
+    if merged_file is not None:
+        data = json.loads(Path(merged_file).read_text("utf-8"))
+        all_features = data.get("features", [])
+    elif input_dir is not None:
+        for geojson_file in sorted(Path(input_dir).glob("*.geojson")):
+            data = json.loads(geojson_file.read_text("utf-8"))
+            all_features.extend(data.get("features", []))
+    else:
+        raise ValueError("Either --input or --merged must be provided")
 
     if not all_features:
         log.warning("No features found in %s", input_dir)
@@ -58,10 +73,16 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, stream=sys.stderr,
                         format="%(levelname)s %(name)s: %(message)s")
     parser = argparse.ArgumentParser(description="Validate normalized ILS features")
-    parser.add_argument("--input", required=True, help="Directory of normalized GeoJSON files")
+    parser.add_argument("--input", help="Directory of normalized GeoJSON files")
+    parser.add_argument("--merged", help="Single merged ils.geojson (preferred; avoids cross-file duplicates)")
     parser.add_argument("--schema", required=True, help="Path to feature.schema.json")
     parser.add_argument("--vg250", help="Path to VG250 extracted directory (optional)")
     args = parser.parse_args()
 
-    ok = run(Path(args.input), Path(args.schema), Path(args.vg250) if args.vg250 else None)
+    ok = run(
+        schema_path=Path(args.schema),
+        input_dir=Path(args.input) if args.input else None,
+        merged_file=Path(args.merged) if args.merged else None,
+        vg250_dir=Path(args.vg250) if args.vg250 else None,
+    )
     sys.exit(0 if ok else 1)

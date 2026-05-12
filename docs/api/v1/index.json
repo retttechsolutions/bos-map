@@ -1,0 +1,1030 @@
+[
+  {
+    "leitstellen_id": "DE-BB-ILS-LAUSIT",
+    "leitstellenname": "Leitstelle Lausitz",
+    "bundesland": "BB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.6341,
+      51.359,
+      14.2175,
+      51.9031
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BB-ILS-NORD",
+    "leitstellenname": "Leitstelle Nord",
+    "bundesland": "BB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      11.2657,
+      52.439,
+      13.5209,
+      53.3714
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BB-ILS-OST",
+    "leitstellenname": "Leitstelle Ost",
+    "bundesland": "BB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      13.3964,
+      51.9999,
+      14.7591,
+      53.0585
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BB-ILS-SUED",
+    "leitstellenname": "Leitstelle Süd",
+    "bundesland": "BB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.7698,
+      51.3676,
+      14.7657,
+      52.4206
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BB-ILS-WEST",
+    "leitstellenname": "Leitstelle West",
+    "bundesland": "BB",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      12.2168,
+      51.9793,
+      13.3128,
+      52.5571
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-AALEN",
+    "leitstellenname": "Leitstelle Aalen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.6191,
+      48.7147,
+      10.4571,
+      49.0609
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-BIBERA",
+    "leitstellenname": "Leitstelle Biberach",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.2603,
+      47.9457,
+      10.144,
+      48.294
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-BOEBLI",
+    "leitstellenname": "Leitstelle Böblingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.7465,
+      48.499,
+      9.1742,
+      48.8677
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-BREISG",
+    "leitstellenname": "Leitstelle Breisgau-Hochschwarzwald",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.5297,
+      47.7436,
+      8.4397,
+      48.1168
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-EMMEND",
+    "leitstellenname": "Leitstelle Emmendingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.577,
+      48.0082,
+      8.1876,
+      48.2605
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-ESSLIN",
+    "leitstellenname": "Leitstelle Esslingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0849,
+      48.5123,
+      9.5964,
+      48.7882
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-FREIBU",
+    "leitstellenname": "Leitstelle Freiburg",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6625,
+      47.9035,
+      7.9303,
+      48.0711
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-FREUDE",
+    "leitstellenname": "Leitstelle Freudenstadt",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2067,
+      48.3011,
+      8.8289,
+      48.6395
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-GOEPPI",
+    "leitstellenname": "Leitstelle Göppingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.484,
+      48.5173,
+      9.9945,
+      48.7814
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-HEIDEL",
+    "leitstellenname": "Leitstelle Heidelberg",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4505,
+      49.1744,
+      9.1009,
+      49.6259
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-HEIDEN",
+    "leitstellenname": "Leitstelle Heidenheim",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.9201,
+      48.5001,
+      10.4957,
+      48.7872
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-HEILBR",
+    "leitstellenname": "Leitstelle Heilbronn",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.8161,
+      49.0203,
+      9.5275,
+      49.3879
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-HOHENL",
+    "leitstellenname": "Leitstelle Hohenlohe",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.3434,
+      49.0954,
+      9.8604,
+      49.4301
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-KARLSR",
+    "leitstellenname": "Leitstelle Karlsruhe",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2584,
+      48.8131,
+      8.8942,
+      49.29
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-KONSTA",
+    "leitstellenname": "Leitstelle Konstanz",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.6139,
+      47.6521,
+      9.2178,
+      47.9422
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-LOERRA",
+    "leitstellenname": "Leitstelle Lörrach",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.5119,
+      47.5324,
+      8.0223,
+      47.8803
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-LUDWIG",
+    "leitstellenname": "Leitstelle Ludwigsburg",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.876,
+      48.7541,
+      9.4162,
+      49.0646
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-MAINTA",
+    "leitstellenname": "Leitstelle Main-Tauber",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.2957,
+      49.3522,
+      10.1617,
+      49.7915
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-MANNHE",
+    "leitstellenname": "Leitstelle Mannheim",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4141,
+      49.411,
+      8.5901,
+      49.5905
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-NECKAR",
+    "leitstellenname": "Leitstelle Neckar-Odenwald",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.938,
+      49.2717,
+      9.6038,
+      49.6635
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-OFFENB",
+    "leitstellenname": "Leitstelle Offenburg",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.6807,
+      48.1582,
+      8.3305,
+      48.7186
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-PFORZH",
+    "leitstellenname": "Leitstelle Pforzheim",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.3794,
+      48.4839,
+      8.9482,
+      49.0622
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-RASTAT",
+    "leitstellenname": "Leitstelle Rastatt",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.9596,
+      48.5867,
+      8.4852,
+      48.9809
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-RAVENS",
+    "leitstellenname": "Leitstelle Ravensburg",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.0656,
+      47.5812,
+      10.1397,
+      48.0055
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-REUTLI",
+    "leitstellenname": "Leitstelle Reutlingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.7557,
+      48.1949,
+      9.6388,
+      48.6228
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-RHEINN",
+    "leitstellenname": "Leitstelle Rhein-Neckar",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.4505,
+      49.1744,
+      9.1009,
+      49.6259
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-ROTTWE",
+    "leitstellenname": "Leitstelle Rottweil",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.2768,
+      47.8462,
+      9.0214,
+      48.411
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-SCHWAE",
+    "leitstellenname": "Leitstelle Schwäbisch Hall",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.4974,
+      48.9176,
+      10.2646,
+      49.3952
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-SCHWAR",
+    "leitstellenname": "Leitstelle Schwarzwald-Baar",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.1096,
+      47.7705,
+      8.6631,
+      48.1869
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-SIGMAR",
+    "leitstellenname": "Leitstelle Sigmaringen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.9342,
+      47.8172,
+      9.6049,
+      48.2891
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-STUTTG",
+    "leitstellenname": "Leitstelle Stuttgart",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.039,
+      48.69,
+      9.3154,
+      48.8672
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-ULM",
+    "leitstellenname": "Leitstelle Ulm",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.4892,
+      48.1423,
+      10.2414,
+      48.6318
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-WAIBLI",
+    "leitstellenname": "Leitstelle Waiblingen",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      9.2373,
+      48.7405,
+      9.7696,
+      49.079
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-WALDSH",
+    "leitstellenname": "Leitstelle Waldshut",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      7.8711,
+      47.5438,
+      8.629,
+      47.8585
+    ]
+  },
+  {
+    "leitstellen_id": "DE-BW-ILS-ZOLLER",
+    "leitstellenname": "Leitstelle Zollernalbkreis",
+    "bundesland": "BW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": [
+      8.6478,
+      48.1036,
+      9.2218,
+      48.4175
+    ]
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-AACHEN",
+    "leitstellenname": "Aachen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BERGIS",
+    "leitstellenname": "Bergisch Gladbach",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BIELEF",
+    "leitstellenname": "Bielefeld",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BOCHUM",
+    "leitstellenname": "Bochum",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BONN",
+    "leitstellenname": "Bonn",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BORKEN",
+    "leitstellenname": "Borken",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BOTTRO",
+    "leitstellenname": "Bottrop",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BRAKEL",
+    "leitstellenname": "Brakel",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-BUEREN",
+    "leitstellenname": "Büren",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-COESFE",
+    "leitstellenname": "Coesfeld",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-DORTMU",
+    "leitstellenname": "Dortmund",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-DUESSE",
+    "leitstellenname": "Düsseldorf",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-DUISBU",
+    "leitstellenname": "Duisburg",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-ERKELE",
+    "leitstellenname": "Erkelenz",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-ESSEN",
+    "leitstellenname": "Essen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-EUSKIR",
+    "leitstellenname": "Euskirchen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-GELSEN",
+    "leitstellenname": "Gelsenkirchen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-GUETER",
+    "leitstellenname": "Gütersloh",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-HAGEN",
+    "leitstellenname": "Hagen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-HAMM",
+    "leitstellenname": "Hamm",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-HERNE",
+    "leitstellenname": "Herne",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-HIDDEN",
+    "leitstellenname": "Hiddenhausen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-KERPEN",
+    "leitstellenname": "Kerpen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-KLEVE",
+    "leitstellenname": "Kleve",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-KOELN",
+    "leitstellenname": "Köln",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-KREFEL",
+    "leitstellenname": "Krefeld",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-KREUZA",
+    "leitstellenname": "Kreuzau",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-LEMGO",
+    "leitstellenname": "Lemgo",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-LEVERK",
+    "leitstellenname": "Leverkusen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-LUEDEN",
+    "leitstellenname": "Lüdenscheid",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MARIEN",
+    "leitstellenname": "Marienheide",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MESCHE",
+    "leitstellenname": "Meschede",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-METTMA",
+    "leitstellenname": "Mettmann",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MINDEN",
+    "leitstellenname": "Minden",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MOENCH",
+    "leitstellenname": "Mönchengladbach",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MUELHE",
+    "leitstellenname": "Mülheim a.d. Ruhr",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-MUENST",
+    "leitstellenname": "Münster",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-NEUSS",
+    "leitstellenname": "Neuss",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-OBERHA",
+    "leitstellenname": "Oberhausen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-OLPE",
+    "leitstellenname": "Olpe",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-RECKLI",
+    "leitstellenname": "Recklinghausen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-REMSCH",
+    "leitstellenname": "Remscheid",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-RHEINE",
+    "leitstellenname": "Rheine",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-SCHWEL",
+    "leitstellenname": "Schwelm",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-SIEGBU",
+    "leitstellenname": "Siegburg",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-SIEGEN",
+    "leitstellenname": "Siegen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-SOEST",
+    "leitstellenname": "Soest",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-UNNA",
+    "leitstellenname": "Unna",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-VIERSE",
+    "leitstellenname": "Viersen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-WAREND",
+    "leitstellenname": "Warendorf",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-WESEL",
+    "leitstellenname": "Wesel",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  },
+  {
+    "leitstellen_id": "DE-NW-ILS-WUPPER",
+    "leitstellenname": "Wuppertal-Solingen",
+    "bundesland": "NW",
+    "traeger": null,
+    "adresse": null,
+    "review_status": "needs_review",
+    "bbox": null
+  }
+]
