@@ -1,7 +1,6 @@
 """Scrape the Wikipedia list of all German ILS as a bootstrap directory.
 
-Source: Wikipedia "Liste der Leitstellen der Behörden und Organisationen
-        mit Sicherheitsaufgaben in Deutschland"
+Source: Wikipedia "Liste der BOS-Leitstellen"
 Licence: CC BY-SA (Wikipedia community)
 Usage: bootstrap / reference only – all entries are flagged review_status="community"
 """
@@ -20,9 +19,9 @@ from bs4 import BeautifulSoup
 
 log = logging.getLogger(__name__)
 
-# Primary URL; fallback tried if this 404s
-_WIKI_URL = "https://de.wikipedia.org/wiki/Integrierte_Leitstelle"
-_WIKI_URL_FALLBACK = "https://de.wikipedia.org/wiki/Liste_der_Leitstellen_der_Beh%C3%B6rden_und_Organisationen_mit_Sicherheitsaufgaben_in_Deutschland"
+# Primary: the actual list article; fallback: general ILS article
+_WIKI_URL = "https://de.wikipedia.org/wiki/Liste_der_BOS-Leitstellen"
+_WIKI_URL_FALLBACK = "https://de.wikipedia.org/wiki/Integrierte_Leitstelle"
 
 # Map Wikipedia section headings to Bundesland codes
 _BL_MAPPING: dict[str, str] = {
@@ -133,19 +132,27 @@ def _parse(html: str) -> list[dict]:
 
                 # Heuristic column mapping
                 for i, (header, text) in enumerate(zip(headers, cell_texts)):
-                    if any(k in header for k in ("name", "bezeichnung", "leitstelle")):
+                    if not text:
+                        continue
+                    if any(k in header for k in ("name", "bezeichnung", "leitstelle", "ils")):
                         entry["name"] = text
-                    elif any(k in header for k in ("standort", "ort", "sitz")):
+                    elif any(k in header for k in ("standort", "ort", "sitz", "stadt")):
                         entry["standort"] = text
-                    elif any(k in header for k in ("träger", "traeger", "zuständig")):
+                    elif any(k in header for k in ("träger", "traeger")):
                         entry["traeger"] = text
                     elif any(k in header for k in ("betreiber",)):
                         entry["betreiber"] = text
-                    elif any(k in header for k in ("fläche", "flaeche", "gebiet")):
+                    elif any(k in header for k in ("zuständig", "bereich", "gebiet", "landkreis", "kreis")):
+                        entry["zustaendigkeitsbereich"] = text
+                    elif any(k in header for k in ("fläche", "flaeche", "km")):
                         entry["flaeche_km2"] = text
                     elif any(k in header for k in ("einwohner",)):
                         entry["einwohner"] = text
-                    elif "anmerkung" in header or "bemerkung" in header:
+                    elif any(k in header for k in ("telefon", "tel.", "notruf")):
+                        entry["telefon"] = text
+                    elif any(k in header for k in ("adresse", "anschrift")):
+                        entry["adresse"] = text
+                    elif "anmerkung" in header or "bemerkung" in header or "hinweis" in header:
                         entry["bemerkung"] = text
 
                 if "name" not in entry and cell_texts:
@@ -182,6 +189,15 @@ def normalize(output_dir: Path) -> list[dict[str, Any]]:
         short = _wiki_short(name, bl)
         ils_id = schema_mod.build_id(bl, short)
 
+        # Combine address fields
+        adresse = entry.get("adresse") or entry.get("standort")
+
+        # Build bemerkung from coverage area + original note
+        bereich = entry.get("zustaendigkeitsbereich", "")
+        note = entry.get("bemerkung", "")
+        bemerkung_parts = [p for p in [bereich, note] if p]
+        bemerkung = " | ".join(bemerkung_parts) if bemerkung_parts else None
+
         result = schema_mod.canonical_feature(
             leitstellen_id=ils_id,
             leitstellenname=name,
@@ -192,8 +208,9 @@ def normalize(output_dir: Path) -> list[dict[str, Any]]:
             source_url=_WIKI_URL,
             traeger=entry.get("traeger"),
             betreiber=entry.get("betreiber"),
-            adresse=entry.get("standort"),
-            bemerkung=entry.get("bemerkung"),
+            adresse=adresse,
+            telefon=entry.get("telefon"),
+            bemerkung=bemerkung,
             review_status="community",
         )
         results.append(result)
