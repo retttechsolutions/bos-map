@@ -24,9 +24,6 @@ def test_process_returns_multipolygon_dict():
 
 def test_process_from_geojson_dict():
     poly = _make_polygon()
-    geojson_geom = json.loads(mapping(poly).__class__(mapping(poly)).__repr__()
-                               .replace("'", '"'))
-    # Use json.loads(json.dumps(mapping(poly)))
     geojson_geom = json.loads(json.dumps(dict(mapping(poly))))
     result = process(geojson_geom, "TEST-002")
     assert result is not None
