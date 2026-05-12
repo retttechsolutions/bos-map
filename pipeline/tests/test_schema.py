@@ -25,7 +25,8 @@ def test_build_id_basic():
 
 
 def test_build_id_strips_special_chars():
-    assert build_id("NW", "Böchum") == "DE-NW-ILS-BOECHUM"[:16]  # 6-char limit
+    # build_id strips non-ASCII chars; umlaut expansion is the harvester's responsibility
+    assert build_id("NW", "Böchum") == "DE-NW-ILS-BCHUM"
 
 
 def test_canonical_feature_valid():
