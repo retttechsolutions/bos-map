@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bos-map.github.io/schema/feature.schema.json",
+  "title": "ILS Feature",
+  "description": "GeoJSON Feature representing a single Integrierte Leitstelle (ILS) in Germany",
+  "type": "object",
+  "required": ["type", "properties", "geometry"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "const": "Feature"
+    },
+    "properties": {
+      "type": "object",
+      "required": [
+        "leitstellen_id",
+        "leitstellenname",
+        "bundesland",
+        "quelltyp",
+        "geometry_basis",
+        "valid_from",
+        "review_status"
+      ],
+      "properties": {
+        "leitstellen_id": {
+          "type": "string",
+          "description": "Unique identifier, pattern: DE-{BL}-ILS-{SHORT}",
+          "pattern": "^DE-[A-Z]{2}-ILS-[A-Z0-9]+$",
+          "examples": ["DE-BY-ILS-MUE", "DE-NW-ILS-BOC"]
+        },
+        "leitstellenname": {
+          "type": "string",
+          "minLength": 1,
+          "examples": ["ILS München", "Feuerwehr- und Rettungsleitstelle Bochum"]
+        },
+        "bundesland": {
+          "type": "string",
+          "description": "ISO 3166-2:DE code (without DE- prefix)",
+          "enum": ["BB", "BE", "BW", "BY", "HB", "HE", "HH", "MV", "NI", "NW", "RP", "SH", "SL", "SN", "ST", "TH"]
+        },
+        "traeger": {
+          "type": ["string", "null"],
+          "description": "Träger (responsible authority/body)",
+          "examples": ["ZRF München", "Stadt Bochum"]
+        },
+        "betreiber": {
+          "type": ["string", "null"],
+          "description": "Betreiber (operating organisation)",
+          "examples": ["Berufsfeuerwehr München"]
+        },
+        "adresse": {
+          "type": ["string", "null"],
+          "description": "Postal address of the Leitstelle",
+          "examples": ["Heßstraße 120, 80797 München"]
+        },
+        "telefon": {
+          "type": ["string", "null"],
+          "examples": ["+49 89 12345678"]
+        },
+        "notruf": {
+          "type": ["string", "null"],
+          "description": "Emergency call number (usually 112)",
+          "examples": ["112"]
+        },
+        "quelltyp": {
+          "type": "string",
+          "description": "Data source type",
+          "enum": ["amtlich_wfs", "amtlich_ogcapi", "amtlich_html", "recht_abgeleitet", "community"]
+        },
+        "funkgruppen": {
+          "type": "array",
+          "description": "Radio groups (Digitalfunk BOS TETRA Rufgruppen)",
+          "items": {
+            "type": "object",
+            "required": ["name", "rolle", "quelle"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Rufgruppenname / Kurzwahl",
+                "examples": ["M_Fw", "M_RD"]
+              },
+              "rolle": {
+                "type": "string",
+                "description": "Role of this group",
+                "enum": ["Feuerwehr", "Rettungsdienst", "KatS", "Polizei", "THW", "Hilfsorganisation", "Pool", "DMO", "sonstige"]
+              },
+              "quelle": {
+                "type": "string",
+                "description": "Source of this group assignment",
+                "enum": ["landeskonzept", "amtlich", "community"]
+              },
+              "kurzwahl": {
+                "type": ["string", "null"],
+                "description": "TETRA short number if known"
+              }
+            },
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "frequenzschema": {
+          "type": ["string", "null"],
+          "description": "Radio frequency scheme used",
+          "examples": ["Digitalfunk BOS TETRA", "analog_4m", "analog_2m"]
+        },
+        "geometry_basis": {
+          "type": "string",
+          "description": "How the geometry was obtained",
+          "enum": ["amtliche_grenze", "verwaltungsgrenze_abgeleitet", "digitalisiert", "community"]
+        },
+        "source_url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to the primary data source"
+        },
+        "source_crs": {
+          "type": ["string", "null"],
+          "description": "Original CRS of the source geometry before reprojection",
+          "examples": ["EPSG:25832", "EPSG:4326"]
+        },
+        "valid_from": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 date when this record became valid"
+        },
+        "valid_to": {
+          "type": ["string", "null"],
+          "format": "date",
+          "description": "ISO 8601 date when this record was superseded, or null if current"
+        },
+        "review_status": {
+          "type": "string",
+          "description": "Data quality / review state",
+          "enum": ["verified", "needs_review", "community"]
+        },
+        "bemerkung": {
+          "type": ["string", "null"],
+          "description": "Free-text notes, e.g. for known issues or pending review"
+        }
+      },
+      "additionalProperties": false
+    },
+    "geometry": {
+      "description": "MultiPolygon geometry in WGS84 (EPSG:4326)",
+      "oneOf": [
+        {
+          "type": "object",
+          "required": ["type", "coordinates"],
+          "properties": {
+            "type": {"type": "string", "const": "MultiPolygon"},
+            "coordinates": {"type": "array"}
+          }
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false
+}
