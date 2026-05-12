@@ -74,8 +74,10 @@ def harvest(output_dir: Path, force: bool = False) -> dict[str, Path]:
             continue
         log.info("Fetching Bayern WFS layer %s…", layer)
         gdf = _fetch_layer_gdf(layer)
-        # Write as GeoJSON
-        path.write_text(gdf.to_json(ensure_ascii=False), encoding="utf-8")
+        # Timestamp columns are not JSON-serializable; convert to ISO strings
+        for col in gdf.select_dtypes(include=["datetime64[ns]", "datetimetz"]).columns:
+            gdf[col] = gdf[col].astype(str)
+        path.write_text(gdf.to_json(), encoding="utf-8")
         log.info("Saved %d features → %s", len(gdf), path)
 
     return paths
