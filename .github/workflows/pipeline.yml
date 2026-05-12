@@ -13,7 +13,7 @@ on:
 
 jobs:
   pipeline:
-    name: Harvest → Normalize → Validate → Build
+    name: Harvest → Normalize → Build → Validate
     runs-on: ubuntu-latest
     permissions:
       contents: write  # needed to push updated data files
@@ -75,14 +75,6 @@ jobs:
             --raw ../data/raw/ \
             --output ../data/processed/normalized/
 
-      - name: Validate
-        working-directory: pipeline
-        run: |
-          python -m validate.run \
-            --input ../data/processed/normalized/ \
-            --schema ../data/schema/feature.schema.json \
-            --vg250 ../data/raw/bkg_vg250/extracted/
-
       - name: Build output artefacts
         working-directory: pipeline
         run: |
@@ -90,6 +82,14 @@ jobs:
             --input ../data/processed/normalized/ \
             --processed ../data/processed/ \
             --docs ../docs/
+
+      - name: Validate
+        working-directory: pipeline
+        run: |
+          python -m validate.run \
+            --merged ../data/processed/ils.geojson \
+            --schema ../data/schema/feature.schema.json \
+            --vg250 ../data/raw/bkg_vg250/extracted/
 
       - name: Run pipeline tests
         working-directory: pipeline
