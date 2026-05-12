@@ -5,7 +5,8 @@ __pycache__/
 .venv/
 venv/
 dist/
-build/
+# only ignore top-level build/, not pipeline/build/
+/build/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
