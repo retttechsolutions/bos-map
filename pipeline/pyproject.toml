@@ -17,9 +17,6 @@ dependencies = [
     "beautifulsoup4>=4.12",
     "lxml>=5.0",
     "jsonschema>=4.22",
-    "flatbush>=3.0",
-    "click>=8.1",
-    "rich>=13.0",
 ]
 
 [project.optional-dependencies]
@@ -34,6 +31,10 @@ dev = [
 [project.scripts]
 bos-harvest = "harvest.__main__:cli"
 bos-build = "build.__main__:cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["harvest*", "normalize*", "validate*", "build*"]
 
 [tool.ruff]
 line-length = 100
