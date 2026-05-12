@@ -114,15 +114,44 @@ def _one_per_kreis(bl_code: str, kreise_gdf) -> list[dict[str, Any]]:
     from normalize import schema as schema_mod
 
     state_kreise = _state_kreise(kreise_gdf, bl_code)
+    # Keep only GF=4 (territory features) to avoid duplicate boundary entries
+    if "GF" in state_kreise.columns:
+        state_kreise = state_kreise[state_kreise["GF"] == 4]
+
+    rows = list(state_kreise.iterrows())
+
+    # First pass: detect short-code collisions (Stadt + Landkreis sharing a name)
+    short_counts: dict[str, int] = {}
+    for _, row in rows:
+        short_counts[_short(str(row["GEN"]))] = short_counts.get(_short(str(row["GEN"])), 0) + 1
+
     results: list[dict] = []
-    for _, row in state_kreise.iterrows():
-        kreis_name: str = row["GEN"]
-        ils_id = schema_mod.build_id(bl_code, _short(kreis_name))
+    seen_ids: set[str] = set()
+    for _, row in rows:
+        kreis_name: str = str(row["GEN"])
+        base_short = _short(kreis_name)
+
+        if short_counts[base_short] > 1:
+            # Disambiguate using BEZ (Bezeichnung) field
+            bez = str(row.get("BEZ", "")).lower()
+            suffix = "ST" if ("stadt" in bez or "bezirk" in bez) else "LK"
+            short = base_short + suffix
+        else:
+            short = base_short
+
+        ils_id = schema_mod.build_id(bl_code, short)
+        if ils_id in seen_ids:
+            log.warning("[%s] Doppelte ID übersprungen (AGS=%s)", ils_id, row.get("AGS", "?"))
+            continue
+        seen_ids.add(ils_id)
+
         try:
             processed_geom = geom_mod.process(row.geometry, ils_id)
         except Exception as exc:
-            log.warning("[%s] Geometry error for %s: %s", ils_id, kreis_name, exc)
+            log.warning("[%s] Geometry error für %s: %s", ils_id, kreis_name, exc)
             processed_geom = None
+
+        bez_label = str(row.get("BEZ", ""))
         result = schema_mod.canonical_feature(
             leitstellen_id=ils_id,
             leitstellenname=f"ILS {kreis_name}",
@@ -132,7 +161,7 @@ def _one_per_kreis(bl_code: str, kreise_gdf) -> list[dict[str, Any]]:
             geometry_basis="verwaltungsgrenze_abgeleitet",
             source_url=None,
             review_status="needs_review",
-            bemerkung=f"1:1-Kreis-Mapping aus VG250: {kreis_name}",
+            bemerkung=f"1:1-Kreis-Mapping aus VG250: {bez_label} {kreis_name}".strip(),
         )
         results.append(result)
     log.info("%s: %d ILS aus VG250 Kreisen abgeleitet", bl_code, len(results))
