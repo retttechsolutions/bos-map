@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "leitstellen_id": "DE-NW-ILS-COESFE",
+    "leitstellenname": "Coesfeld",
+    "bundesland": "NW",
+    "traeger": null,
+    "betreiber": null,
+    "adresse": null,
+    "telefon": null,
+    "notruf": null,
+    "quelltyp": "amtlich_ogcapi",
+    "funkgruppen": [],
+    "frequenzschema": null,
+    "geometry_basis": "community",
+    "source_url": "https://ogc-api.nrw.de/inspire-us-feuerwehr/v1/collections/",
+    "source_crs": null,
+    "valid_from": "2026-05-12",
+    "valid_to": null,
+    "review_status": "needs_review",
+    "bemerkung": null
+  },
+  "geometry": null
+}
